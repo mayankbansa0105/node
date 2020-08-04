@@ -11,4 +11,6 @@ app.use(function (req, res, next) {
 });
 app.use(bodyparser.urlencoded({ extended: true }));
 app.use('/', routes);
-app.listen(3000);
+var port = process.env.PORT || 3000,
+
+app.listen(port);
