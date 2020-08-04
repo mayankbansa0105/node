@@ -1,0 +1,1976 @@
+SEGMENT_VALUE,DESCRIPTION
+000,No LOB
+120,RandD Canada
+510,CEO Office
+532,Accounts Receivable
+801,Loan
+99999,All Brannd
+400,Manufacturing
+02,KP Technologies Inc
+1112,New Jersey
+1121,Texas
+1131,Illinois
+1132,Ohio
+1143,Oregon
+11120102,NCB1-Clearing
+11210108,Proceeds of Sale- Clearing Accounts
+11210109,Cost of Removal - Clearing Accounts
+11310103,Prepaid - Medical Insurance
+21120101,Supplier Payables - National Suppliers.
+21130103,Educational Allowances - Liabilities
+41210102,Fixed Assets Gain/Loss
+51120104,Dep. Expense Building Innovations
+51130108,GOSI - Saudi 2%
+102,Test Company AB 3
+111,RandD India
+121,GA India
+162,Treasurer Office
+174,Fixed Assets
+181,Human Resources
+183,Security
+1102016,Building Clearing
+1212014,STN GBP 1212014
+150107,Earned Revenu
+1502001,Earned Revenue
+2202001,Supplier Liablity
+2202017,Unearned Revenue
+3107001,Cumulative Translation Adjustment
+4104003,PO Gain & Loss
+4226001,Telephone Charges
+5202007,Profit or loss on sale of asset
+2201,Sundry Creditors
+3404,Earned Discount
+1000002,Liability
+1000004,Revenue
+1000005,Expense
+0000,Default for Intercompany
+1022,ABC Inc.
+111201,Fixed Deposit - 1
+113104,Accounts Receivable - Staffing
+113202,Unbilled receivables
+114602,Others - To Add after discussing with Accountant
+114702,Prepaid Internet Charges
+122103,PC
+122105,Other Computer accessories
+122203,Electric Equipment
+211201,Unsecured Loans A/c
+221805,Reserve for encumberance A/c
+223301,Commissioner of Income Tax-TDS
+313001,Commission
+314002,Retail Instance Sale
+316003,Miscellaneous income
+411004,Employee Bonus
+423002,Product Hosting
+434003,Freight Charges
+435003,Travelling Expenses - Others
+440001,Entertainment Expenses
+442003,Investments Written Off
+443006,Depository Charges
+532001,Capital Redemption Reserves
+201,S1
+111,RandD Growing
+523,Controller Office
+552,Facilities
+610,Gulf Warehousing
+10000052,Cash Clearing
+11120104,NCB-603 SAR - Clearing
+12110102,Vehicles - Clearing
+12110401,Building Innovations - Cost
+1111,Oracle
+1311,PSFT
+2111,Temenos
+430,Modem
+10001,Asset
+10000110,Advances and Prepayments
+10120,Bank of America - Payroll
+10250,Citizens - Credit Card
+10315,Commerzbank - USD
+11290,AP/AR Cash Netting
+121XX,Accounts Receivable
+13120,Prepaid Benefits
+13125,Prepaid Pension Contribution - FAS86
+13410,Deferred Financing Fee
+13415,Accum Amort - Financing Fees
+141XX,Raw Material - All
+14695,Inventory In-Transit
+16710,Computer Software & Equipment
+16890,Other Fixed Assets
+17120,Accum Depr - Land Improvements
+172XX,Accum Depr - Building and Building Improv
+17710,Accum Depr - Computer Software & Equip
+17899,Deferred Depreciation Reserve
+21125,Accrued Receipts - PO
+21510,Intercompany Payables
+22410,Accrued FICA 
+22480,Accrued Legal Plan (Premiums)
+22590,Accrued Misc Employee Deductions
+24030,Accrued Maintenance/Tooling
+240XX,Accrued Expenses
+24310,Customer Deposits
+26110,Deferred Federal Income Taxes
+261XX,Deferred Income Taxes Payable
+28090,Current Maturities Reclass to LT
+31120,Common Stock - Class B
+311XX,Common Stock - All
+32XXX,Additional Paid-in-Capital
+36130,Pension Adjustment - Prior Year
+41310,Intercompany Sales - Revenue
+51240,Raw Material - Shrinkage
+51270,Import Duty Tax
+51280,Other Raw Material Variances
+52310,Material Variance - Finished Goods
+52520,WIP Absorption - Depreciation Overhead
+53400,Trial Reserve Expense
+54110,Water Treatment Chemical Expense
+54190,Drums & Storage Containers
+54230,Lab Equipment & Supplies
+55575,Belts
+55595,Humidity & Air System Repairs
+55615,RP&S Barcode Equipment
+55625,Waste Water System
+55695,MRO Shrinkage
+56130,Freight - Road Toll
+56160,Freight Packaging Expense
+59720,Natural Gas
+60110,Allocations
+61030,Vacation Expense
+61515,Group Insurance - Allocated
+61520,Dental Contributions/Premiums
+61955,Candidate Meals & Entertainment
+62330,Legal Services
+62340,Consulting Fees
+643XX,Advertising
+65320,Insurance - Property
+65330,Insurance - PBGC
+66110,Telephone & Fax
+66310,Donations
+66340,Uniform Rental - Employee
+66425,Gifts - Non-Deductible
+66720,Sludge Removal / Land Maintenance
+66750,Air Pollution Control
+66790,Corporate Technology Costs
+66850,Safety & OSHA Requirements
+66860,Safety Shoes/Glasses
+68610,Bad Debt Expense
+686XX,Bad Debt Expense - All
+69050,Goodwill - Amort Exp
+69120,Land Improvements - Depr Exp
+691XX,Land and Land Improvements - Depr Exp
+69610,Vehicles - Depr Exp
+69710,Computer Software & Equip - Depr Exp
+69890,Other Fixed Assets - Depr Exp
+72150,PO Rate Variance - Gain
+72190,Currency Rounding
+72595,Other Misc Expense - Prior Year
+731XX,Provision for Income Taxes
+AC20010,Liability of invoices
+220,GandA Canada
+420,Wine Making Operations
+535,Inventory
+541,Packing
+553,Security
+602,Southwest Warehousing
+11,Office Of the President 
+23,Human Resources
+32,Corporate Marketing 
+51,Office Of Supply Chain Managemnet
+101,Test Company AB 2
+000000,Default Location
+11150001,Cash Clearing Accounts
+12110015,Gas System
+12120005,"Accumulated Depreciation - Information, Computer and Communication Equipment"
+21110004,Insurance Withhold
+21110009,GOSI - Employer Contribution
+22120001,Deferred Government Grants
+31110001,Share Capital
+41110003,Inpatient Revenue - Physician Consulting Fees
+41110007,Inpatient - Refunds/Returns
+41130011,Facilities Rental
+43110003,Government Subsidies
+51110014,"Machines, Equipment, and Stations fuel"
+51110022,Books and References
+51110030,Other Computer Goods and Services
+51110033,Events and Hospitality
+51130002,Electricity Supply Cost
+51130003,Other Electricity Expenses
+51130011,Water Consumption Charge
+51180001,Advertising Expenses
+51200002,Membership in International Organizations
+51200005,Industrial Materials and Equipment for Training
+51200008,Information and Data
+52120007,Overtime - Administrators and Specialists
+52140019,End-of-Service - Employees
+52140044,Staff Sponsor
+54110013,Depreciation - Computer Hardware
+54110015,Depreciation - Gas System
+54110016,Depreciation - Machines and Equipment not Elsewhere Classified
+9999,Default
+510,CEO Office
+551,Human Resources
+110,RandD US
+521,CFO Office
+536,Tax
+553,Security
+606,Mid Atlantic Warehousing
+0000,Future Account
+110,Finance Department
+112,RandD Mfg
+551,Human Resources
+603,Northeast Warehousing
+609,Rockies Warehousing
+552,Birmingham
+10,Oracle
+222,GandA Rest of Canada
+534,Fixed Assets
+610,Gulf Warehousing
+500,Services
+1133,Inidana
+21130105,Benefits Employee Liabilities
+41210103,Other Income
+51120105,Dep. Expense Equipment's
+51130107,GOSI - Saudi 10%
+51130114,Medical Insurance
+51130205,Conferences and seminars
+101,Test Company AB 2
+0000,
+151,CEO Office
+1226002,Cross Currency Clearing
+1502002,Un Billed receivable
+2202008,Other payables
+4208007,Bank charges-others
+4212002,Deferred depreciation expense
+5202002,Commission Orange Money
+5202010,Revaluation reserve retired (gain/loss)
+3101,Air
+3102,Road
+3201,Stationary
+3300,Salary 
+3401,Realized gain?Loss
+4102,SAP
+9000,Headcount
+00,Default
+1000002,Long term liability
+111,Zbank1 Kuwait
+200,
+1004,Audit
+8001,Average Balances - Cost Centre
+9999,Default
+113101,Accounts Receivable - Training
+114101,Intercompany receivables
+115005,Remittance
+124101,Accumulated Depreciation Buildings
+124204,Accumulated Depreciation Kitchen Equipment
+221302,Interest on Delayed Payment of TDS
+221401,Professional Tax Payables 
+221402,Provident Fund Payable 
+221803,Ap Accrual A/c
+221806,Proposed Dividend
+222001,Intercompany Payables 
+223201,Provision for Income Tax
+223310,US Sales tax - City
+411001,Office Salary
+412003,Employee Phone expenses
+412005,Sales Commission
+424002,Server Purchase
+437003,Postage and Courier
+443001,Advertisement Expenses
+443002,Donation
+451001,Amortization of Intangible Assets
+102,N2
+000,None
+430,Packaging Operations
+521,CFO Office
+531,Accounts Payable
+541,Packing
+603,Northeast Warehousing
+604,Southeast Warehousing
+11310102,Loan to Employees
+31110102,Prior year adjustments
+51140106,Due diligence studies
+1411,MSFT
+1511,Hyperion
+12,Plant
+220,Government Aircraft Engines
+320,Stock Pumps
+20001,Revenue
+10020,Agricultural Bank of China - CNY
+10110,Bank of America - USD
+10550,Banco Santander - MXN
+10710,TD Bank NA - USD
+10999,Cash Clearing
+12120,Accounts Receivable - Chargebacks
+12210,A/R - Miscellaneous
+12220,Employee Receivable
+12280,Notes Receivable
+13110,Prepaid Insurance
+13160,Prepaid Annual Support
+13180,Prepaid Supplier Advances
+134XX,Intangible Assets
+14399,WIP Clearing - CONFIG ONLY
+14665,Finished Goods - Inventory Write Off Reserve
+14990,Deferred COGS
+151XX,Short Term Investments
+16997,Depreciation Adjustment
+16999,CIP Clearing
+171XX,Accum Depr - Land and Land Improv
+17610,Accum Depr - Vehicles
+177XX,Accum Depr - Computer Equip
+17830,Accum Depr - Immaterial Assets
+19120,Deposits - Rent
+21111,Accounts Payable - Legacy Systems
+22130,Accrued Holiday
+22425,Accrued SIT Withheld
+22435,Accrued SUTA Payable - Employer
+22440,Accrued Workers Compensation
+22510,Accrued Union Dues Withheld
+22515,Accrued United Way Withheld
+22630,Accrued SERP
+23110,Accrued Federal Income Taxes
+23410,VAT - Input Tax Receivable Full
+23425,VAT - Acquisition Input Tax Receivable 
+24070,Accrued Short-Term Interest
+24090,Accrued Miscellaneous
+24320,Customer Refunds
+243XX,Customer Deposits - All
+24410,Deferred Revenue
+280XX,Long Term Debt
+35XXX,Dividends - All
+36120,Interest Rate Adjustment - Prior Year
+41110,Revenue
+49990,Earned Discounts - Receivables
+51250,Raw Material - Physical Inv Adj
+51290,Contra RM - Inv w/o Reserve
+51295,Contra RM - Obsolescence Reserve
+512XX,RM Inventory Variance
+52395,Contra WIP - Obsolescence Reserve
+52620,Variable Substitution
+53114,Cost of Goods Sold - Depreciation
+53350,Finished Goods - Physical Inv Adj
+533XX,FG Inventory Variance
+53710,Outside Converting Expense
+538XX,Warehousing
+54115,Waste Water Treatment Chemical Exp
+55535,Fire/Sprinkler System Maintenance
+55545,Roll Maintenance
+55565,Lift Trucks Maintenance & Repairs
+55590,Compressed Air System Repairs
+555XX,Repairs and Maintenance
+55605,Stock Prep System Maintenance
+55630,Propane System Repairs
+56210,Adhesives Expense
+56220,Marking Materials Expense
+56270,Headers
+59510,Trials - New Product
+59530,R&D Project Expense
+59590,R&D - Other Expense
+595XX,Research & Development
+59910,Purchase Price Variance
+59940,Vendor Volume Incentive
+61010,Salaries
+61020,Gross Wages
+61025,Hourly - Overtime
+61028,Wages - Rebate
+61045,Equity Incentives
+61080,Ex-Patriot Costs
+61190,Payroll Expense - Other
+61310,Temporary Help
+61450,Retirement - Informal
+61630,Education Assistance
+61645,Training - External
+61690,Other Employee Benefits
+62115,Transportation - Other
+62120,Rental Car
+62130,Meals - Travel
+62140,Business Meals
+62165,Tolls
+62360,Credit and Collections Fees
+62390,Professional Services - Other
+63180,Property Taxes
+66210,Office Supplies
+66215,Office Accessories
+66360,Cafeteria Expense
+66730,Hazardous Waste Removal
+66740,Snow Removal
+671XX,System & PC Expenses
+69510,Office Furniture & Equip - Depr Exp
+69810,Low Value Assets A - Depr Exp
+69820,Low Value Assets B - Depr Exp
+69997,Asset Retirement Clearing
+72330,Inter-Org Transfer Credit
+723XX,Other Income
+72520,Interest Expense
+72XXX,Other Income and Expense
+AC19000,Retained Earning
+AC30010,Motorcycle Revenue
+3121,InFusion Sales -US Napa
+3221,InFusion Harvesting -US
+3251,InFusion Cupertino Cherries
+3331,InFusion Shipping -US
+4999,InFusion Shipping -Canada Ltd.
+13000,Mis.Account Code
+112,RandD Mfg
+221,GandA Quebec
+430,Packaging Operations
+607,Midwest Warehousing
+101,Human Resource
+999,Common
+43,Consulting Services
+45,Gneral Services 
+61,Office of Store Management
+11210003,Trade Receivables
+11210004,Non Trade Receivables
+11210010,On Account Receipts
+12110012,Machinery and Equipment - Motor vehicles
+12110014,Electrical Appliances
+12120003,Accumulated Depreciation - Research Centers and Laboratories
+12120011,Accumulated Depreciation - Machinery and Equipment - Motor vehicles
+21110007,Contract Retainage
+21110011,Expense AP Accrual
+32120001,Retained Earnings
+41110001,Inpatient Revenue - Room Revenue
+41130001,Retail Pharmacy
+42120002,Misc. Non Operating Income
+43110001,Government Grant Received in Cash
+43110002,Government Grant Received in Kind
+51110017,Other Mail Expenses
+51110018,Air Freight
+51110026,Supervision Services
+51120001,Rental/Lease - Buildings
+51120002,Rental/Lease-Equipment
+51130009,Other Telecommunication Expenses
+51130010,Medical Gas
+51140009,Repairs and Maintenance - Others
+51150001,License and Permits - Facility
+51150002,License and Permits - Medical Staff
+51150003,License and Permits - Non Medical Staff
+51160002,Insurance -Buildings and Facilities
+51200001,Other Governmental Services Tariff
+52110002,Salary - Healthcare Jobs
+52110021,Wages - Direct Operation Employees
+52110023,Wages - Administrators and Specialists
+52120008,Overtime - Other Temporary Jobs
+52130005,Housing - Direct Operation Employees
+52140022,"End-of-Service - Agents, Assistant Agents and the like"
+52140028,Travel Allowances - Workers Abroad
+52140039,Rewards - Administrators and Specialists
+52140041,Employee Social Insurance
+521600001,Accommodation
+53120004,Rounding Account
+53120005,Exchange Rate Losses/Gain (Unrealized)
+54110005,"Depreciation - Information, Computer and Communication Equipment"
+54110006,Depreciation - Research and Developments
+54110012,Depreciation - Machinery and Equipment - Motor vehicles
+221,GandA Quebec
+541,Packing
+430,Packaging Operations
+120,Sales and marketing
+998,India AMP sales project
+00,Corporate
+210,GandA
+410,Growing and Harvesting Operations
+521,CFO Office
+607,Midwest Warehousing
+812,Software
+11200,SALE - Linked
+111,RandD Growing
+220,GandA Canada
+221,GandA Quebec
+410,Growing and Harvesting Operations
+607,Midwest Warehousing
+802,Financial
+000,Balance Sheet
+800,Marketing
+1113,Washington DC
+11120103,NCB2-Cash
+11120104,NCB2-Clearing
+11210101,Sponsorship - Chairman
+11210105,Unapplied Receipts
+11210106,Unidentified Receipts
+11310101,Advances - Petty Cash
+21130101,Salary Liabilities
+21130102,Bonus Liabilities
+51130111,Educational Allowance
+100,Test Company AB 4
+173,General Accounting
+176,Tax
+1206001,Supplier Advance Prepayment 
+2205001,Intercompany Payables
+5202001,Commission Airtel Money
+12,Expense
+1201,Cash
+1202,Bank
+3202,Water
+1000003,Owner's Equity
+1000004,Revenue
+111202,Fixed Deposit - 2
+112101,Cash A/c
+113102,Accounts Receivable - Consulting
+114501,TDS
+121101,Office Building UK
+122104,Screens
+122202,Mobile
+221301,Tax Deducted at Source
+221702,US County Tax Payable 
+222101,Salary Payable
+223303,Commissioner of GST
+223308,US Sales tax - State
+223309,US Sales tax - County
+311002,Retail Selfpaced
+311003,Corporate Online/onsite
+312002,Client Placement
+411006,Employee Trainings
+425002,Start meeting License fees
+425003,Other License Fees
+426001,Installation Expense
+43201,Rent - Office
+433001,Interest in delayed payment of TDS
+434002,Office Maintanance
+434004,Computer Maintanance
+437002,Internet Charges
+438001,Printing and Stationary
+443003,Festival Celebration Expenses
+443004,Membership and Subsription
+443012,Earned Discount
+452003,Depreciation - Factory Building
+452005,Depreciation CCTV Equipment
+511105,Sharmila Passi
+533001,Asset revaluation reserve
+535001,General Reserve
+32001,Retained Earning
+210,GandA US
+220,GandA Canada
+221,GandA Quebec
+536,Tax
+605,North Atlantic Warehousing
+606,Mid Atlantic Warehousing
+12110301,IT - Cost
+21120101,Supplier Payables - National Suppliers.
+00,Default
+51,
+000,Default
+000,RMT101 Inter Company
+10025,Agricultural Bank of China - USD
+10115,Bank of America - Euro
+10220,Bank of China - USD Deposits
+10310,Commerzbank - EUR
+10510,ICBC - USD
+10580,Royal Bank of Scotland - Euro
+10715,TD Bank NA - Custody
+12180,Unapplied/On Account Receipts
+12190,Allowance for Doubtful Accounts
+12510,Intercompany AR
+126XX,Intercompany Loans
+13150,Prepaid VAT
+14320,WIP - Semi-Finished Good
+14685,Contra FG Build Accrual
+15110,Investment in Subsidiary - Short Term
+16120,Land Improvements
+161XX,Land and Land Improvements
+16220,Building Improvements
+16310,Machinery & Equipment
+167XX,Computer Equipment
+16810,Low Value Assets A
+17310,Accum Depr - Machinery & Equip
+173XX,Accum Depr - Machinery & Equipment
+19310,Long Term Investment - Co-op Shares
+21115,Accounts Payable - Future Dated
+22120,Accrued Sick Pay
+22150,Accrued Bonus
+221XX,Accrued Salaries & Wages
+22420,Accrued FIT Withheld
+226XX,Accrued Pension Expense
+23210,Foreign Tax Payments
+23415,VAT - Input Tax Receivable Reversed Charge
+23490,Accrued Other VAT Taxes Payable
+24075,Accrued Intercompany Interest
+24099,Accrued i-Expense Clearing
+25110,Current Portion of LT Debt
+25310,Deferred Income Tax - Current
+255XX,Dividends Payable - All
+28590,Other Long Term Liabilities
+31140,Common Stock - Pru Series D
+41XXX,Revenue - All
+49140,Intercompany Sales Deductions
+51110,Cost of Goods Sold - Raw Material
+511XX,Raw Materials - COGS
+513XX,RM Productivity Variance
+52340,Outside Processing Variance - Finished Goods
+52350,Material Variance - Semi-Finished Goods
+52388,WIP Shrinkage - Depreciation
+52515,WIP Absorption - Fixed Substitution
+525XX,WIP Overhead Absorption Costs
+52630,Variable Converting Variance
+528XX,Reserves
+529XX,Overhead
+53110,Cost of Goods Sold - Finished Goods
+53112,Cost of Goods Sold - Variable
+53330,Finished Goods - Obsolescence
+54125,Water Fees Expense
+54220,Diesel Fuel
+55720,Welding Supplies
+561XX,Freight In/Out
+56245,Chipboard Expense
+56260,Wrappers
+59520,R&D Pilots
+59730,Propane
+599XX,Price Variance
+61015,Salaries - International
+61049,Discretionary Incentives
+61110,Payroll Taxes - Salary
+614XX,Pension / 401k
+61580,Flex (Waiver) Dollars
+61612,Vehicle Expense - Repairs & Maintenance
+61650,Seminars/Conference
+61815,Retirement / XMAS Party
+61935,Psych Consulting
+61950,Candidate Air & Hotel
+61959,Candidate Travel - Other
+62110,Lodging/Hotels
+62135,Meals - Disallowed
+62160,Parking
+631XX,Taxes / Fees
+64110,Trade Shows - Exhibit
+641XX,Trade Shows
+66220,Janitorial/Cleaning Expense
+66230,Postage
+66290,General Office Expense - Other
+662XX,General Expenses
+66325,Auto Expense
+66410,Meetings Expense
+66420,Gifts
+66755,Environmental Regulations / Charges
+66760,Recycling Program
+66770,Quality Management Supplies
+66990,Other Expense - General
+67115,Computer - Hardware
+67125,Printer - Repairs & Parts
+69090,Other - Amortization 
+693XX,Machinery and Equipment - Depr Exp
+695XX,Furniture and Fixtures - Depr Exp
+69899,Deferred Depreciation Expense
+71310,Restructuring Costs
+721XX,Currency Transactions - All
+72320,Rental/Lease Income
+72515,LT Debt Interest Expense
+72580,Expense Benefit in Kind
+AC10010,Railway Travel
+AC10030,Bus Travel
+AC30040,Tyres Sale Revenue
+3111,InFusion Marketing - US Napa
+3211,InFusion Growing -US
+3321,InFusion Packaging -US
+01,Domestic Operations
+000,None
+110,RandD US
+312,Sales and Marketing CAD
+523,Controller Office
+531,Accounts Payable
+542,Shipping
+606,Mid Atlantic Warehousing
+608,Pacific Warehousing
+610,Gulf Warehousing
+00,Defaults
+22,Accounting 
+45,Gneral Services 
+63,Store Operation 
+100,Test Company ABC 4
+0008,Entertainment
+11110002,Petty Cash
+11130002,DA- Bank Account 2
+11140001,TD - Bank Account 1
+11210001,Advances for Purchase of Property
+11210007,Retentions Receivable
+11510001,Inventory
+12110003,Healthcare Buildings and Facilities
+12110005,Other Buildings
+12110019,Fixed Asset Clearing
+12120008,Accumulated Depreciation - Furniture and Fixtures
+12120012,Accumulated Depreciation - Computer Hardware
+12120013,Accumulated Depreciation - Electrical Appliances
+12120017,Accumulated Depreciation - Educational Equipment
+12120016,Accumulated Depreciation - Emergency Projects
+12220002,Accumulated Amortization -Intellectual Property Rights
+12210003,Intellectual Property Rights
+21110001,Supplier Payables
+21110002,Deferred Tax liability
+21110008,GOSI - Employee Contribution
+21110010,Output VAT Account
+21110017,Provision For Slow Moving & Non-Moving Items
+22130002,Loans from Related Parties
+22130003,Dues from Interclusters
+31110002,Contributed Capital from Government
+32110001,Statutory Reserve
+41120002,Outpatient Revenue - Physician Surgical Fees
+41120004,Outpatient - Denials
+41130005,Car Parking Revenue
+51110005,Medical Waste and Cleaning Service
+51110024,"Charity, Donations, Contributions"
+51110028,Fixtures
+51110031,IT Expenses
+51110034,Other Administrative Expenses
+51120003,Rental/Lease- Vehicles
+51130007,Internet Services
+51140002,Repairs and Maintenance - Building
+51140005,Repairs and Maintenance - Electrical Appliances
+51150004,License and Permits -Fines
+51160003,Insurance -Equipment and Machinery
+51160004,Insurance - Other
+51180003,Printing and Reproduction
+51310002,Cost of Removal (Assets)
+52110007,Salary - Administrators and Specialists
+52110008,Salary - Other Temporary Jobs
+52110012,Remuneration - Workers Abroad
+52110016,Remuneration - Other Temporary Jobs
+52120001,Overtime - Civil Employees (General Cadre)
+52130001,Housing - Civil Employees (General Cadre)
+52130002,Housing - Healthcare Jobs
+52130004,Housing - Workers Abroad
+52130007,Housing - Administrators and Specialists
+52140005,Allowances - Direct Operation Employees
+52140006,"Allowances - Agents, Assistant Agents and the like"
+52140009,Health Insurance - Civil Employees (General Cadre)
+52140011,Health Insurance - Employees
+52140025,Travel Allowances - Civil Employees (General Cadre)
+52140027,Travel Allowances - Employees
+52140035,Rewards - Employees
+52140040,Rewards - Other Temporary Jobs
+52140043,Staff Training
+521600003,In-kind housing
+53120003,Invoice Price Variance
+54110017,Depreciation - Emergency Projects
+55110003,Amortization -Other Intangible Assets
+999,Default
+111,RandD Growing
+430,Packaging Operations
+532,Accounts Receivable
+536,Tax
+603,Northeast Warehousing
+120,RandD Canada
+220,GandA Canada
+221,GandA Quebec
+312,Sales and Marketing CAD
+602,Southwest Warehousing
+200,HR Department
+111,RandD Growing
+430,Packaging Operations
+541,Packing
+553,Security
+602,Southwest Warehousing
+11100,NON Linked
+511,London
+551,Human Resources
+602,Southwest Warehousing
+603,Northeast Warehousing
+605,North Atlantic Warehousing
+200,Support
+1141,California
+MGF,Misk Global Forum
+11210107,Receipts Refund Clearing
+11210110,Receivables - Subsidiaries
+11210111,VAT - Recoverable
+21110105,Public Pension Agency Liabilities
+21120102,Supplier Payables - International Suppliers.
+41210101,Income from Deposits 
+51120103,Dep. Expense IT
+51130102,Housing Allowance
+51130104,Living Cost Allwance
+100,Test Company AB 4
+000000,Common
+1208010,Proceeds of sale clearing
+1212015,HSB GBP 1212015
+1228001,Cash - HO
+2202002,Supplier Liability - Tax Auth
+2202005,Unidentified receipts
+3105001,Retained Earnings
+4110002,Round off difference
+5202006,Miscellaneous Income
+00,NO EXPENSE TYPE
+2101,Loans
+1000001,Assets
+1000001,Asset
+6000,Net Income
+9000,Headcount
+300,
+111104,India Axis A/c INR
+114302,Employee Advance - Consultants
+114401,Deposit - Telephone
+114701,Prepaid Insurance
+115002,Unidentified Receipts
+115003,On Account Receipts
+122205,Kitchen Equipment
+124201,Accumulated Depreciation Computers
+221501,CGST Payable 
+223101,Provision for Expenses
+223102,Provision for Interest
+223103,Provision for doubtful Debts
+223304,Income Tax Authorities
+223307,H&M Revenue - UK VAT
+311001,Retail Online
+314001,Corporate Sandbox
+412002,Employee Travel Expenses
+421001,Training Professional Charges
+422001,Consultant Professional Charges
+431002,Fuel Expenses
+43202,Rent - Other
+433004,Interest on delayed payment of Sales GST
+435001,Conveyance Expenses
+435002,Travelling Expenses - Tickets
+439001,Audit Fees
+439002,Tax Audit Fee
+439004,Solicitar Consultancy Charges
+441002,Realised Foreign Exchange (Gain)/Loss
+442002,Loss on sale of investments
+443011,Office Management company expenses
+452001,Depreciation - Building
+521101,Share Premium
+536001,Profit and Loss Account
+00,Default - No Utility
+20,None
+522,Treasurer Office
+533,General Accounting
+608,Pacific Warehousing
+20000093,Discount taken from suppliers
+20000100,Foreign Currency Exchange Movement
+11120101,NCB-602 SAR
+11210101,Receivables - Subsidiaries
+11210102,VAT - Recoverable
+11310101,Advances - Petty Cash
+11310104,Prepaid - Insurance
+11320104,Prepaid ZAKAT
+21120103,Petty Cash Liabilities
+51140103,Project Studies
+51140104,Research studies
+2311,Misys
+30001,Liability
+0000,Default
+000,Default Cost Center
+10130,Bank of America - GBP
+10410,Glens Falls National
+10455,HSBC - HKD
+10505,ICBC - CNY
+10630,Sparkasse
+10650,Sunmark Bank
+10670,Volksbank
+11110,Petty Cash - Local Currency
+12185,Unidentified Receipts
+13130,Prepaid Rent
+13140,Prepaid Income Tax
+13170,Prepaid/Deferred Duty
+13290,Prepaid - Other
+14190,RM - Inventory Write Off Reserve
+14120,Raw Material - Reserve for Trial Valuation
+14310,WIP -  Inventory
+145XX,Outside Processing - All
+14630,Variable Inventory Resource
+14610,Finished Goods Inventory
+15310,Investment in Subsidiary
+153XX,Investments - Subsidiary
+16110,Land
+16510,Office Furniture & Equip
+165XX,Furniture and Fixtures
+166XX,Vehicles - All
+16996,Projects Clearing
+175XX,Accum Depr - Furniture and Fixtures
+178XX,Accum Depr - Other Fixed Assets
+22430,Accrued FUTA Payable - Employer
+224XX,Accrued Payroll Taxes and Deductions
+22525,Accrued Housing Allowance
+22560,Accrued W/H Tax Shareholder Dividends
+24020,Accrued Property Tax
+24060,Accrued Commissions
+24095,Accrued Restructuring Costs
+25510,Dividends Payable
+312XX,Preferred Stock - All
+34110,Currency Translation Adjustment
+35110,Dividends
+36110,Retained Earnings 
+41810,Credit Memos - General
+41815,Credit Memos - Warranty/Claims
+49XXX,Misc & Other Deductions
+51220,Raw Material - Quality Scrap
+51310,Material Usage Variance
+51320,Material Substitution Variance
+52320,Overhead Variance - Finished Goods
+52386,WIP Shrinkage - Fixed
+526XX,WIP Variances
+53390,Inventory Revaluation - Other
+53490,Contra FG - Inv w/o Reserve
+540XX,Operating Expenses
+54120,Waste Water Removal Expense
+54145,Boiler Chemicals
+54130,Sewer Use Fees
+54140,Cleaning Chemicals & Supplies
+54155,Lubricants
+54160,Additives
+54180,Wires & Installation
+54215,Methanol
+55540,Bulk Storage Maintenance
+55550,Lab Equipment Maintenance
+55560,Pumps
+55650,Store Parts
+55680,Small Tools - Repairs & Maintenance
+56120,Outbound Freight
+56110,Inbound Freight
+56115,Inbound Freight - Expedited
+56125,Outbound Freight - Expedited
+56190,Freight - Other
+56205,"Pallets, Skids and Frames"
+56215,Tape Expense
+59740,Electricity
+59930,Purchasing Discounts
+610XX,Salaries & Wages
+61425,Pension - Supplement
+61510,Group Insurance
+61530,Vision Contributions/Premiums
+615XX,Insurance Benefits
+61616,Vehicle Expense - Insurance
+61830,Association Fees and Dues
+618XX,Employee Related
+61960,Moving Expense
+619XX,Recruiting
+62105,Airfare
+62315,Audit Fees - Pension
+62335,Patents & Trademarks
+64120,Booth Expense
+64310,Advertising Expense
+64390,Other Advertising Expense
+65350,Insurance - Bad Debt
+66350,Vehicle Expense - Over the Road
+66810,Medical Service
+67130,System - Repairs & Maintenance
+67180,System Annual Support
+68820,Bank Errors
+68830,Cash Management Fees
+69060,Patent - Amort Exp
+72110,Realized Currency - Gain
+AC30030,4 Door Car Revenue
+3231,InFusion San Carlos Chocolates
+3241,InFusion Stockton Citrus
+11000,Purchase Account Code
+603,Northeast Warehousing
+43,Consulting Services
+00,Defaults
+32,Corporate Marketing 
+44,Support Services 
+51,Office Of Supply Chain Managemnet
+101,Test Company ABC 2
+11210005,Input VAT
+11210008,Unbilled Receivable Account
+11210009,Unapplied Receipts
+12110004,Research Centers and Laboratories
+12110007,Construction of Stations and Power Networks
+12110009,Furniture and Fixtures
+12110011,Miscellaneous Machinery and Equipment
+12110018,Educational Equipment
+12120006,Accumulated Depreciation - Construction of Stations and Power Networks
+12210002,Licenses and Software
+21110003,Payable to Employees
+21110005,Advances/Deposits Received - Customers
+21120001,Loans from Bank
+21120003,Loans from Related Parties
+32120003,Cumulative Translation Adjustment Account
+41120001,Outpatient Revenue - Physician Consulting Fees
+41120003,Outpatient Revenue - Consumables
+41130003,Ambulance Revenue
+41130004,Sick Leave Certificate
+41130008,Discount Received
+41130010,Support Revenue
+51110003,Canteen Expenses
+44110001,Amortization of Deferred Government Grants(Capital Projects)
+51110007,Security Services
+51110012,General Consumables
+51110019,Land Freight 
+51110020,Other freight and Transport Expenses and Equipment
+51130001,Electricity Consumption
+51130004,Land Line Services
+51130005,Mobile Services
+51140008,Repairs and Maintenance-Transport means
+51170003,Lawyers and Chartered Accountants Fees
+51180005,Website (Host) Rental Fees
+51200003,Scientific Research Expenses
+51200006,Manufacturing Materials and Equipment
+51310001,Deferred Depreciation Expense
+52110001,Salary - Civil Employees (General Cadre)
+52110015,Remuneration - Administrators and Specialists
+52110019,Wages - Employees
+52110024,Wages - Other Temporary Jobs
+52110025,Judicial Rulings Compensation
+52120002,Overtime - Healthcare Jobs
+52120006,"Overtime - Agents, Assistant Agents and the like"
+52140010,Health Insurance - Healthcare Jobs
+52140007,Allowances - Administrators and Specialists
+52140012,Health Insurance - Workers Abroad
+52140013,Health Insurance - Direct Operation Employees
+52140029,Travel Allowances - Direct Operation Employees
+52140030,"Travel Allowances - Agents, Assistant Agents and the like"
+52140032,Travel Allowances - Other Temporary Jobs
+521600004,Government Share for GOSI
+53110002,Cleaning Supplies
+54110007,Depreciation - Construction - Stations and Power Networks
+54110008,Depreciation - Warehouses and Workshops
+54110010,Depreciation - Medical Equipments and Laboratories
+54110014,Depreciation - Electrical Appliances
+110,RandD US
+604,Southeast Warehousing
+606,Mid Atlantic Warehousing
+210,GandA US
+420,Wine Making Operations
+552,Facilities
+609,Rockies Warehousing
+300,Project Department
+312,Sales and Marketing
+534,Fixed Assets
+604,Southeast Warehousing
+0000,Future 
+551,Glasgow
+752,Delhi
+551,Glasgow
+00000,Default
+000,None
+430,Packaging Operations
+521,CFO Office
+531,Accounts Payable
+601,Northwest Warehousing
+608,Pacific Warehousing
+600,IT
+1111,New York
+1142,Washington
+MAI,Misk Art Institute
+11120101,NCB1- Cash
+11210103,Sponsorship - Foundation
+11210112,Allownce for doutful acc.
+11310102,Loan to Employees
+51130103,Transport allowance
+51130113,Employee Bonus
+51130201,Employee Benefits
+000,Default Intercompany
+141,MFG India
+163,Controller Office
+999,Default
+1208001,Trade receivables
+2301002,194H Liabiity
+4104001,Realised - Foreign exchange gain or loss
+4104002,Unrealised - Foreign exchange gain or loss
+3402,Cross currnecy rounding A/c
+000,None
+112,Zbank1 Kuwait Capital
+111101,UK Bank A/c GBP
+113201,Other Receivables
+122101,Laptops
+123101,Table
+211101,Secured Loan A/c
+221804,Clearing A/c
+315002,Product Consulting
+316002,Sale of scrap
+423001,Product Development Expense
+431001,Utility Charges
+433002,Interest on delayed payment of VAT
+435004,Vehicle Hire Charges
+436001,Professional Company Insurance
+437001,Telephone Charges
+443005,Misc.Expenses
+443010,Hotel Expenses
+443008,Bank Charges
+452004,Depreciation Office Equipment
+511103,Fusion Practices Ltd
+511104,Promila Passi
+531001,Capital Reserve
+534001,Statutory Reserve
+101,N1
+202,S2
+0000,No Value
+01,Electric
+222,GandA Rest of Canada
+420,Wine Making Operations
+551,Human Resources
+602,Southwest Warehousing
+10000010,Current assets
+10000030,Cash on Hand
+20000010,Current Liabilities
+30000000,Retained Earnings Account
+11320103,Prepaid Tax
+11340101,Advance to Suppliers
+12110201,Furniture - Cost
+12110202,Furniture - Clearing
+41110101,Project Revenues
+51140105,Legal fees
+0000,Default
+2211,OFSAA
+22,Debenture
+210,Commercial Aircraft Engines
+530,Modem
+02,Comp2
+01103,NA - Disc Surety Runoff
+10000060,Account Receivables
+10010,Agril Bank - Capital USD
+10450,HSBC - USD
+111XX,Petty Cash
+13455,Accum Amort - Goodwill
+13465,Accum Amort - Patent
+13590,Other Current Assets
+140XX,Inventory - All
+14395,WIP - Reserve for Obsolescence
+15XXX,Investments
+162XX,Building and Building Improvements
+16610,Vehicles
+16XXX,Fixed Assets
+17220,Accum Depr - Building Improv
+17820,Accum Depr - Low Value Assets B
+19110,Deposits - Long Term
+19XXX,Long Term Assets
+21120,Accrued Payables 
+22470,Accrued Disability Withheld
+22610,Accrued Pension
+23125,Accrued State Income Tax - NY
+23130,Accrued State Income Tax - CA
+231XX,Accrued Federal & State Income Tax
+23310,Accrued Sales and Use Tax
+24032,Accrued Quality Claims
+24065,Accrued Royalties
+24098,Accrued Freight Clearing
+25XXX,Other Current Liabilities
+28010,Revolving Note
+28015,Revolving Credit - LT
+28510,Long Term Interest Payable
+31XXX,Stock
+49120,Volume Discounts
+49995,Unearned Discounts - Receivables
+51230,Raw Material - Obsolescence
+51260,Raw Material - Cycle Count Adj
+51330,RM Converting/Slitting Variance
+52100,WIP Shrinkage
+521XX,Work in Process
+52510,WIP Absorption - Fixed
+52813,Contra Inventory Build - Fixed
+53310,Finished Goods - Scrap
+53820,Warehousing - Consignment
+54150,Production Chemicals
+54185,Rotary Printing Screens
+54245,Card Clothing
+55655,Contractors - Piping
+55675,Contractors - Electrical
+55685,Hardware - Repairs & Maintenance
+56225,Labels Expense
+56250,Cores Expense
+56275,Corrugated Pallets
+56290,Miscellaneous Packaging
+59540,R&D Supplies
+601XX,Allocations - All
+61040,Incentives
+61035,Holiday Expense
+61085,Ex-Pat Tax Equalization
+61115,Payroll Taxes - Hourly
+61410,401k Employer Contribution 
+61540,LTD Contributions/Premiums
+61560,AD&D Contributions/Premiums
+61570,Workers Compensation Expense
+61590,Other Health Insurance Premiums
+61614,Vehicle Expense - Tax & Dues
+61810,Company Outing
+61920,Help Wanted Advertisements
+62150,Mileage
+62310,Audit Fees
+623XX,Professional Services
+63120,VAT - Export Tax
+64380,Promotional Items
+66240,Licenses
+66250,Annual Report
+66265,Directors Meeting
+66280,Copy Machine
+66285,Office Machine Maintenance
+66305,Scholarships
+66315,Donation Matching
+66820,Medical Supplies
+67110,Computer - Software
+697XX,Computer Equip - Depr Exp
+69990,Gain on Disposal Fixed Asset
+72115,Realized Currency - Loss
+72560,Discounts Taken - Payables
+AC40010,Cash in hand
+4888,InFusion Stocking -Canada Ltd.
+111,RandD Growing
+536,Tax
+604,Southeast Warehousing
+609,Rockies Warehousing
+102,Finance
+21,Finance
+53,Logistics
+62,Store Development
+22,Accounting 
+42,Product development Services
+100,Test Company AB 4
+102,Test Company ABC 3
+11130001,DA- Bank Account 1
+11310002,Grants/Subsidies Receivable from other Govt. Entities
+11510002,Inventory- In Transit
+12110006,"Information, Computer and Communication Equipment"
+12110020,CWIP-Construction Work in Progress
+12120015,Accumulated Depreciation - Machines and Equipment not elsewhere classified
+12210004,Other Intangible Assets
+12220003,Accumulated Amortization -Other Intangible Assets
+21110012,Inventory AP Accrual
+21110014,Other Accrued Expenses
+21110018,Provision for Bad and Doubtful Debts
+22110001,Provision - Employee's End of Service Benefits
+32120005,Revaluation Reserve
+41130007,Referral Fee Income
+41130009,Other Inventory Sales
+41130013,Other Public Services Fees
+41130012,Sale of Documents and Systems
+43110004,Foreign Aid
+51110004,Hospitality/ Refreshment
+51110006,Car Parking Expenses
+51110010,Physician Services
+51110009,Social Services
+51110023,Miscellaneous Expenses
+51110032,Confidential Expenses
+51110035,Other Medical Expenses
+51130006,Telegram Services
+51130008,Telephone and Internet Connection Expenses
+51130012,Water Supply Cost
+51140004,Repairs and Maintenance - Computers
+51160001,Insurance - Hospital and Professional Malpractice
+51190001,Bad and Doubtful Debts Expenses
+51200004,"Agricultural, Environmental, Veterinary and Laboratory Materials and Pesticides"
+52110004,Salary - Workers Abroad
+52110009,Remuneration - Civil Employees (General Cadre)
+52110017,Wages - Civil Employees (General Cadre)
+52110018,Wages - Healthcare Jobs
+52110027,Pension Salaries and Allocations
+52140014,"Health Insurance - Agents, Assistant Agents and the like"
+52140015,Health Insurance - Administrators and Specialists
+52140023,End-of-Service - Administrators and Specialists
+521600002,Patients and In-house Expenses
+53110001,Medical Consumables
+53110003,Office and Administrative Supplies
+53120001,Inventory Adjustments Write-off
+53120002,Purchase Price Variance
+54110001,Depreciation - Administrative Buildings
+54110003,Depreciation - Research Centers and Laboratories
+54110009,Depreciation - Furniture and Fixtures
+54110018,Depreciation - Educational Equipment
+55110002,Amortization -Intellectual Property Rights
+56110003,Credit Card Charges
+521,CFO Office
+531,Accounts Payable
+533,General Accounting
+534,Fixed Assets
+542,Shipping
+601,Northwest Warehousing
+607,Midwest Warehousing
+608,Pacific Warehousing
+510,CEO Office
+522,Treasurer Office
+533,General Accounting
+534,Fixed Assets
+541,Packing
+542,Shipping
+551,Human Resources
+603,Northeast Warehousing
+778,India AMP production project
+01,Domestic Operations
+510,CEO Office
+420,Wine Making Operations
+523,Controller Office
+532,Accounts Receivable
+552,Facilities
+610,Gulf Warehousing
+99999,Default
+00,Dafault SII
+512,Hampshire
+552,Birmingham
+000,DEFAULT FUTURE VALUE
+210,GandA US
+312,Sales and Marketing CAD
+522,Treasurer Office
+533,General Accounting
+535,Inventory
+541,Packing
+552,Facilities
+553,Security
+00,Default
+01,KP Furnitures Inc
+MIS,Misk Initiatives Center
+11210102,Sponsorship - Corporate
+11210104,Sponsorship - Group
+51120101,Dep. Expense Vehicles
+51130109,GOSI - Non-Saudi 2%
+51130203,Traveling Tickets
+51130204,Training Tuition
+131,Sales and Marketing
+161,CFO Office
+1102025,Accu Dep - Building
+1205001,Intercompany GL Receivable
+2104002,Deferred depreciation reserve (liability)
+2202003,Supplier Liability - TDS Authority
+2301001,194J Liability
+4108001,Discount Received
+4110008,Freight charges
+4502003,Building Depreciation
+1203,Receivables
+2102,Debentures
+1000005,Retained Earnings
+113,Zbank1 Kuwait (Commercial)
+100,
+1021,ABC Limited
+1002,Finance
+1003,Project Support Function
+111103,US Bank A/c USD
+113103,Accounts Receivable - Product
+114301,Employee Advance - A2F Office
+114503,Deferred Tax
+115001,Unapplied Receipts
+115004,Confirmed Receipts 
+124203,Accumulated Depreciation CCTV Equipment
+131101,Shares - Fusion Practices India
+221201,Liability - Expenses
+221807,Unearned Revenue
+311004,Corporate Selfpaced
+315001,Product Subscription
+411005,Director Remunaration
+412006,Incentives
+434001,Office Expenses
+439003,Accounting Fees
+442001,Loss on sale of assets
+443009,Advertisment Expenses
+452002,Depreciation - Computer
+511101,Anil Passi
+511102,Anjali Passi
+07,Non-Utility
+312,Sales and Marketing CAD
+410,Growing and Harvesting Operations
+542,Shipping
+553,Security
+40000000,Depreciation
+11310103,Prepaid - Medical Insurance
+11320101,Prepaid Saudi Post Fees
+11320102,Prepaid Visa Fees 
+12110101,Vehicles Cost 
+12110302,IT - Clearing
+51140101,Consulting Expenses
+1211,SAP
+1611,AXIOM
+3111,CCAR
+3211,RegReptg
+21,Bank Loans Axis
+410,Keyboard
+420,Monitor
+510,Keyboard
+520,Monitor
+01100,GL - Aerospace
+000,Default
+10360,BBVA Bancomer - MXN
+10370,Banamex - MXN
+10555,Banco Santander - USD
+10610,Sovereign Bank
+10XXX,Cash
+10810,DEQ Trust Account
+11115,Petty Cash - Other Currencies
+12212,A/R - Refundable Energy Dues
+13105,Prepaid Health Claims
+13210,Prepaid Early Retirement
+13450,Goodwill
+13460,Patent
+13510,Deferred Tax Benefit
+14019,Inventory - Receiving Clearing
+14390,WIP - Inventory Write Off Reserve
+143XX,Work-in-Progress All
+14680,Finished Goods - Reserve for Obsolescence
+14810,"Contra Inventory - PPV, Incentives Accrual"
+16820,Low Value Assets B
+16830,Immaterial Assets
+17210,Accum Depr - Buildings
+176XX,Accum Depr - Vehicles
+17810,Accum Depr - Low Value Assets A
+21110,Accounts Payable - Trade
+22115,Deferred Compensation
+22155,Accrued Incentives
+22405,Accrued FSA
+22455,Accrued Dependent Care (Premium)
+22490,Accrued 401k - Employee
+22520,Accrued Housing Withheld
+22550,Accrued Expatriate Deduction
+22595,Accrued Misc W/H Tax Payable
+23115,Capital Sales Tax Withheld
+23120,Accrued State Income Tax - MA
+233XX,Accrued Sales and Use Tax - All
+24034,Accrued Energy Consumption
+24085,Accrued Dividends Payable
+285XX,Other Long Term Liabilities - All
+32110,Additional Paid in Capital
+31210,Preferred Stock
+313XX,Treasury Stock - All
+41990,Other - Revenue
+515XX,Raw Material Overhead Absorption Costs
+52590,WIP Absorption - Other
+52910,Fixed Overhead Allocation
+52920,Spending Variance Allocation
+53105,Cost of Goods Sold - Intercompany
+53111,Cost of Goods Sold - Material
+531XX,Finished Goods
+53340,Finished Goods - Shrinkage
+53380,Standard Cost Adjustments - Revaluation
+54165,Ropes/Pulleys
+54175,Felts & Installation
+54195,Machine Calibrations
+55520,Major Maintenance/Tooling
+55525,Minor Machine Repairs
+55530,Preventative Maintenance
+55570,Motors
+55585,"Boiler, Steam, Water System Repairs"
+55610,RP&S System Equipment Maintenance
+55620,Steel
+55670,Contractors - Mechanical
+56235,Bags - Dunnage Expense
+56240,Cartons Expense
+56255,Stretch Wrap
+562XX,Packaging Supplies
+594XX,Spinners Parent
+59750,Water
+59810,Royalties
+61050,Commissions
+61060,Bonus
+61120,Health Insurance Employee Contribution
+616XX,Employee Benefit
+61910,Recruiting Expense
+62180,Per Diem
+63160,Governmental Fees
+64320,Design Market Media
+65110,Rent - Office
+65340,Insurance - Liability
+66260,Directors Fee & Travel
+66270,Training - ISO
+66840,"Safety, PPE & Apparel"
+66865,Safety Awards
+69220,Building Improvements - Depr Exp
+692XX,Building and Building Improvements
+69310,Machinery & Equipment - Depr Exp
+696XX,Vehicles - Depr Exp
+698XX,Other Fixed Assets All - Depr Exp
+71110,Acquisition Costs
+72380,Income Benefit in Kind
+73120,Estimated Trade Tax Provision
+SQFT,Square Footage
+AC30020,2 Door Car Revenue
+3888,InFusion USA Corporation
+3999,InFusion USA HQ
+120,RandD Canada
+210,GandA US
+601,Northwest Warehousing
+103,Sales
+31,Sales
+33,Product Markerting 
+41,Product Design Services
+42,Product development Services
+61,Office of Store Management
+63,Store Operation 
+21,Finance
+31,Sales
+33,Product Markerting 
+53,Logistics
+102,Test Company AB 3
+11110001,Cash on Hand (Central)
+11120002,CA- Bank Account 2
+12110002,Administrative Buildings
+12120001,Accumulated Depreciation - Administrative Buildings
+12120014,Accumulated Depreciation - Gas System
+21120002,Dues from Interclusters
+212400001,Intercluster Payables
+22110002,Provision- Annual Leave
+32120002,Retained Earnings Prior period adjustment
+41110005,Inpatient Revenue - Consumables
+41110006,Inpatient - Denials
+41130015,Pharmacy Refunds/Returns
+51110008,Catering Services
+51110025,Input VAT- Non Recoverable
+51110029,Computer Licenses and Software
+51110036,Technical Support
+51140006,Repairs and Maintenance - Furniture and Fixtures
+51170001,Studies and Designs Services
+51170006,Certification Fees
+51180004,"Awareness, Cultural and Media Activities (internal)"
+52110010,Remuneration - Healthcare Jobs
+52110014,"Remuneration - Agents, Assistant Agents and the like"
+52120003,Overtime - Employees
+52120005,Overtime - Direct Operation Employees
+52140001,Allowances - Civil Employees (General Cadre)
+52140003,Allowances - Employees
+52140008,Allowances - Other Temporary Jobs
+52140017,End-of-Service - Civil Employees (General Cadre)
+52140018,End-of-Service - Healthcare Jobs
+52140024,End-of-Service - Other Temporary Jobs
+52140026,Travel Allowances - Healthcare Jobs
+52140031,Travel Allowances - Administrators and Specialists
+52140033,Rewards - Civil Employees (General Cadre)
+52140036,Rewards - Workers Abroad
+52140045,Recruitment Fee
+54110004,Depreciation - Other Buildings
+54110019,Unplanned Depreciation Expense
+56110001,Bank Interest Expense
+56110002,Bank Service Charges
+000,None
+112,RandD Mfg
+210,GandA US
+220,GandA Canada
+420,Wine Making Operations
+535,Inventory
+552,Facilities
+605,North Atlantic Warehousing
+610,Gulf Warehousing
+410,Growing and Harvesting Operations
+535,Inventory
+610,Gulf Warehousing
+000,DEFAULT
+130,Purchasing Department
+400,Project Team
+0000,Default
+00,Corporate
+01,Domestic Operations
+522,Treasurer Office
+533,General Accounting
+535,Inventory
+542,Shipping
+606,Mid Atlantic Warehousing
+710,Consulting COE
+811,Hardware
+20,SAP
+100,Consulting
+200,Training
+420,Wine Making Operations
+520,Finance and Accounting
+542,Shipping
+604,Southeast Warehousing
+606,Mid Atlantic Warehousing
+609,Rockies Warehousing
+803,Banking Loan
+00000,Default
+900,HCM
+11310104,Prepaid - Insurance
+21110101,Short Term Loans
+21110102,Current Installment of LT Loan
+21110104,GOSI Liabilities
+21120103,Petty Cash Liabilities
+51130101,Basic Salaries
+51130105,Telephone allowance
+51130106,Over Time
+51130110,Public Pension Agency
+51130202,Business Trip allowance
+171,Accounts Payable
+172,Accounts Receivable
+1102015,Building Account
+1212011,BBB BWP 1212011
+1212012,BBB BWP 1212012
+1226001,Bank balance clearing account
+2202007,On account receipts
+4110009,AR Refund
+5202009,Nbv retired account (gain/loss)
+10,LOSS ADJUSTMENT EXPENSE
+1101,Furniture
+5001,Retained earnings
+1000003,Total Expenses
+121,Zbank1 Malaysia 
+111102,UK Bank A/c USD
+114502,Advance Income tax
+122102,Headphones
+123102,Chairs
+123103,Other Furniture
+124202,Accumulated Depreciation Office Equipment
+221101,Sundry Creditors Services
+221502,SGCST Payable
+221701,US State Tax Payable 
+221703,US City Tax Payable 
+221801,Rounding A/c
+223302,Commissioner of Income Tax-TCS
+223306,Provident Fund Autorities
+315003,Product Training
+315005,Discount Taken
+411002,Consultancy Salary
+411003,Salary Bench
+423003,Other Expenses
+425001,Fusion Instance License fees
+434005,Consumables
+443007,Bad debts
+444001,Interview Fees
+000000,Default Location
+0,None
+110,RandD US
+112,RandD Mfg
+532,Accounts Receivable
+607,Midwest Warehousing
+609,Rockies Warehousing
+10000040,Cash in Bank1
+50000020,Per Diem
+20000020,Accounts Payable
+11120103,NCB-603 SAR
+12110402,Building Innovations - Clearing
+21120102,Supplier Payables - International Suppliers.
+31110101,Retained Earnings
+41110102,Sponsorships Revenue
+51140102,Management fees - projects
+11,Furniture
+10015,Agril Bank - Settlement USD
+10515,ICBC - Euro
+10990,Cash - Other
+12110,Accounts Receivable - Trade
+12115,Unbilled Receivables
+12211,A/R - Vendor Discounts
+125XX,Intercompany - Receivable
+13115,Prepaid Ins - Early Retirement
+13420,Technology Rights
+13425,Accum Amort - Technology Rights
+135XX,Other Current Assets
+14010,Inventory - Receiving
+14110,Raw Material
+14195,RM - Reserve for Obsolescence
+14510,Outside Processing
+14620,FG - Reserve for Trial Valuation
+163XX,Machinery and Equipment
+16998,Asset Clearing
+17510,Accum Depr - Office Furn & Equip
+211XX,Accounts Payable
+22125,Accrued Vacation
+22140,Accrued Severance
+22160,Accrued Equity Incentives
+22165,Accrued Early Retirement S&W
+22415,Accrued FICA - Employer
+23199,Accrued Tax Reserve
+24080,Accrued Volume Incentives
+253XX,Current Portion of Deferred Income Tax
+26120,Deferred State Income Taxes
+28040,Bank of America Euro Term - LT
+31110,Common Stock - Par Value
+31310,Treasury Stock
+32120,Additional Paid in Capital - Class B
+34XXX,Translation Adjustments
+36XXX,Retained Earnings  - All
+49110,Miscellaneous A/R Deductions
+51520,Overhead Absorption - Freight
+52380,Outside Processing Variance - Semi-Finished Goods
+52390,Contra WIP - Inv w/o Reserve
+52610,Variable Usage Variance
+52814,Contra Inventory Build - Depreciation
+53113,Cost of Goods Sold - Fixed
+53495,Contra FG - Obsolescence Reserve
+537XX,Converting Expense
+54210,Nitrogen 
+54240,Protective Clothing
+54390,Other - Operating Supplies
+55510,Building Maintenance
+55515,Minor Construction
+55555,Instrumentation Equipment
+55580,"Pipes, Valves & Fittings"
+55635,Electrical Parts
+55660,HSE Requirements
+56230,Strapping & Accessories Expense
+59410,Spinners
+59515,Trials - Outside
+59710,Fuel Oil
+59920,Invoice Price Variance
+61090,Severance Pay
+61130,Social Charges - Benefits
+611XX,Payroll Taxes and Deductions
+61420,Pension Expense
+61640,Training - In House
+61825,Service Awards
+62125,Petrol/Gas
+62145,Entertainment
+651XX,Facilities
+65380,Workers Comp Incident
+661XX,Communications - All
+66235,Overnight Delivery
+66245,Forms & Reports
+688XX,Bank Charges/Fees
+690XX,Depreciation and Amortization Expense
+69210,Building - Depr Exp
+69980,Gain on Sale of Fixed Assets
+72155,PO Rate Variance - Loss
+72510,ST Debt Interest Expense
+AC40000,Cash clearing
+00,Corporate
+532,Accounts Receivable
+533,General Accounting
+534,Fixed Assets
+551,Human Resources
+12,Office of CEO/COO
+44,Support Services 
+23,Human Resources
+11210002,Advances to Subcontractors and Suppliers
+11210006,Prepaid Expenses
+12110001,Purchase of Land
+12110008,Warehouses and Workshops
+12110010,Medical Equipments and Laboratories
+12110013,Computer Hardware
+12110017,Emergency Projects
+12120004,Accumulated Depreciation - Other Buildings
+12120007,Accumulated Depreciation - Warehouses and Workshops
+12120010,Accumulated Depreciation - Miscellaneous Machinery and Equipment
+21110006,Advances/Deposits Received - Others
+21110015,Contract Loss Accruals
+22130001,Loans from Banks
+41110004,Inpatient Revenue - Physician Surgical Fees
+41120005,Outpatient - Refunds/Returns
+42110001,Bank Interest Income
+51110011,Transportation Expenses
+51110013,Printing and Stationary
+51110015,Postage and Courier Charges
+51110021,Training/Conferences
+51120004,Rental/Lease- Other Transport Means
+51170002,Audit Fees
+51200007,Studies
+52110003,Salary - Employees
+52110006,"Salary - Agents, Assistant Agents and the like"
+52110013,Remuneration - Direct Operation Employees
+52110026,Compensation of Civil servants
+52130003,Housing - Employees
+52130006,"Housing - Agents, Assistant Agents and the like"
+52130008,Housing - Other Temporary Jobs
+52140016,Health Insurance - Other Temporary Jobs
+52140020,End-of-Service - Workers Abroad
+52140038,"Rewards - Agents, Assistant Agents and the like"
+52140042,Staff Uniform
+52140047,Other Relocation Expenses
+53110004,Staff Uniforms
+54110002,Depreciation - Healthcare buildings and facilities
+54110011,Depreciation - Miscellaneous Machinery and Equipment
+410,Growing and Harvesting Operations
+553,Security
+602,Southwest Warehousing
+609,Rockies Warehousing
+601,Northwest Warehousing
+604,Southeast Warehousing
+605,North Atlantic Warehousing
+607,Midwest Warehousing
+608,Pacific Warehousing
+110,RandD
+531,Accounts Payable
+601,Northwest Warehousing
+605,North Atlantic Warehousing
+512,Hampshire
+SC,SCLoB
+110,RandD US
+112,RandD Mfg
+523,Controller Office
+536,Tax
+10000,Medicne
+100,Management
+300,Sales
+700,Finance
+1122,Florida
+51120102,Dep. Expense Furniture
+51130206,Transition allowance
+101,Test Company AB 2
+102,Test Company AB 3
+175,Inventory
+182,Facilities
+2202006,Unapplied receipts
+2202010,VAT payable
+2202016,WHT Payable
+3101001,Share Capital
+31,316
+1102,P&M
+4101,Oracle 
+02,Company 2
+1001,Admin
+112102,Cash Clearing A/c
+114201,Advance to suppliers
+114402,Deposit - Office
+114601,Others - To Add after discussing with Accountant
+122201,Invertor
+122204,CCTV Equipment
+124301,Accumulated Depreciation Furniture
+221601,UK VAT Payable
+221802,Invoice Price Variance A/c
+223305,Profession Taxes Authorities
+312001,Projects
+316001,Interest Received
+411007,Recruitment Expenses
+412001,Mediclaim Insurance
+412004,Staff Wellfare
+421002,Onsite Expense Reimbursement
+421003,Other Expenses
+424001,Server Maintainance
+433003,Interest on delayed payment of Sales Tax
+439005,Directors Sitting Fees
+441001,Unrealised Foreign Exchange (Gain)/Loss
+441003,Conversion Rate Gain/Loss
+443013,Unearned Discount 
+444002,Employee Verification Charges
+444003,Naukri Subscription Charges
+452006,Depreciation Kitchen Equipment
+02,Gas
+03,Common
+120,RandD Canada
+510,CEO Office
+534,Fixed Assets
+535,Inventory
+601,Northwest Warehousing
+20000060,Withholding Tax Payable
+11120102,NCB-602 SAR - Clearing
+3311,PPNR
+310,Customer-Ordered Pumps
+01,Comp1
+10210,Bank of China - CNY
+10365,BBVA Bancomer - USD
+122XX,Other Receivables
+12610,Intercompany Loan
+131XX,Prepaid Expenses - All
+13430,Intangible Pensions
+13XXX,Prepaid and Current Assets
+14699,FG Inventory Clearing - CONFIG ONLY
+146XX,Inventory Resources - All
+16210,Building
+168XX,Other Fixed Assets - All
+16910,Construction in Progress (CIP)
+17890,Accum Depr - Other Assets
+19210,Deferred Tax Benefit - Long Term
+215XX,Intercompany Payables - All
+22110,Accrued Compensation
+22450,Accrued Health Care (Premium)
+22460,Accrued Life Insurance (Premiums)
+22530,Accrued Garnishments
+232XX,Accrued Foreign Taxes Payable
+23420,VAT - Input Tax Receivable Reduced
+234XX,Accrued VAT/GST
+24010,Accrued Legal
+24040,Accrued Duty Payable
+24050,Accrued TCE Cleanup
+244XX,Deferred Revenue - All
+251XX,Current Portion of Long Term Debt - All
+2XXXX,Liabilities
+49130,Promotional Discounts
+51210,Raw Material - Scrap
+51510,Overhead Absorption - Duties
+52330,Variable Variance - Finished Goods
+52360,Overhead Variance - Semi-Finished Goods
+523XX,WIP Inventory Variances
+53320,Finished Goods - Quality Scrap
+53360,Finished Goods - Cycle Count Adj
+53810,Warehousing - Local
+54170,Doctor Blades
+54235,Slitting Accessories
+55640,Power Transmission Parts
+55645,System Programming
+55690,Other Repairs and Parts
+56265,Salle Packaging
+59790,Other - Utilities
+597XX,Utilities
+598XX,Royalties - Parent
+5XXXX,Cost of Goods Sold - All
+61019,Salaries - Overtime
+61029,Wages - Year End Payment
+613XX,"Temps, Consultants and Contractors"
+61550,Life Insurance Contributions/Premiums
+61610,Leased Vehicle Expense
+61840,Books & Subscriptions
+61930,Physical Exams
+62190,Other - Travel
+62192,Other - Gratuity
+621XX,"Travel, Meals & Entertainment"
+62320,Tax Consulting Fees
+62350,Payroll Outsourcing
+65310,Insurance - General
+653XX,Insurance Expense
+66225,Ground Maintenance
+66275,ISO Certification/BSI Fees
+66320,Rental Equipment
+66330,Outside Quality Testing
+66710,Waste Removal / Dump Maintenance
+67120,Computer - Repairs & Parts
+68810,Bank Fees
+69830,Immaterial Assets - Depr Exp
+69985,Loss on Sale of Fixed Assets
+69995,Loss on Disposal Fixed Asset
+711XX,Acquisition Costs - All
+713XX,Restructuring Costs - All
+72310,Interest Income
+72390,Other Miscellaneous Income
+72395,Other Misc Income - Prior Year
+72530,Interest Income Tax Expense
+72590,Other Miscellaneous Expense
+725XX,Other Expense
+73110,Estimated Income Tax
+HCNT,Headcount
+AC10020,Air Travel
+3311,InFusion Plant Operations -US
+10000,Retained Earnings Account
+12000,Sales Account Code
+222,GandA Rest of Canada
+410,Growing and Harvesting Operations
+510,CEO Office
+521,CFO Office
+522,Treasurer Office
+552,Facilities
+605,North Atlantic Warehousing
+52,Purchasing
+11,Office Of the President 
+12,Office of CEO/COO
+41,Product Design Services
+52,Purchasing
+62,Store Development
+11120001,CA- Bank Account 1
+11140002,TD - Bank Account 2
+11310001,Grants/Subsidies Receivable from MoF
+11510003,Property Under Development
+11410001,Intercluster Receivables
+12110016,Machines and Equipment not elsewhere classified
+12120002,Accumulated Depreciation - Healthcare Buildings and Facilities
+12120009,Accumulated Depreciation - Medical Equipments and Laboratories
+12210001,Goodwill
+12220001,Accumulated Amortization - Licenses and Software
+21110013,Other Payables - Refunds to Patients
+21110016,Penalties & Claims
+32120004,Non Controlling Interest
+41110002,Inpatient Revenue - Ancillary Revenues
+41130002,Patient Registration/File Opening
+41130006,Canteen Revenue
+41130014,Medication Fees for Health Insurance Holders
+42120001,Profit/Loss on Sale of Fixed Asset
+42120003,Revenue from Investment
+51110001,"Direct Housekeeping, Maintenance, and Operation"
+51110002,Laundry and Ironing of Clothing and Fixtures
+51110016,Post Office Box Membership Fees
+51110027,Clothing
+51110037,Assets Renovation and Improvements
+51140001,Repairs and Maintenance - Medical Equipment
+51130013,Utilities - Other
+51140003,Repairs and Maintenance - Automobiles
+51140007,"Repairs and Maintenance-Machinery, equipment and pumps"
+51170004,Management Fees
+51170005,Consulting Services
+51180002,Marketing Expenses
+52110005,Salary - Direct Operation Employees
+52110011,Remuneration - Employees
+52110020,Wages - Workers Abroad
+52110022,"Wages - Agents, Assistant Agents and the like"
+52120004,Overtime - Workers Abroad
+52140002,Allowances - Healthcare Jobs
+52140004,Allowances - Workers Abroad
+52140021,End-of-Service - Direct Operation Employees
+52140034,Rewards - Healthcare Jobs
+52140037,Rewards - Direct Operation Employees
+52140046,Recruitment and Iqama expenses for Non-Saudis
+53120006,Exchange Rate Losses/Gain (Realized)
+55110001,Amortization - Licenses and Software
+1001,Data Analytics
+00,Default
+120,RandD Canada
+222,GandA Rest of Canada
+312,Sales and Marketing CAD
+522,Treasurer Office
+523,Controller Office
+000,None
+111,RandD Growing
+112,RandD Mfg
+222,GandA Rest of Canada
+523,Controller Office
+531,Accounts Payable
+532,Accounts Receivable
+500,Payroll
+000,None
+000,None
+536,Tax
+608,Pacific Warehousing
+11103,Mortage
+511,London
+752,Delhi
+000,NULL

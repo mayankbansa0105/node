@@ -1,0 +1,36 @@
+{
+    "0": {
+        "BU_NAME": "KPS_BU",
+        "SUPPLIER_NAME": "Consolidated SuppNEW",
+        "SUPPLIER_SITE": "DALLAS-ERS",
+        "INVOICE_NUM": "ERS-13412-55870",
+        "INVOICE_DATE": "2004-09-02T00:00:00.000+00:00",
+        "LINE_NUMBER": "1",
+        "LINE_DESCRIPTION": "Stationery",
+        "DISTRIBUTION_LINE_NUMBER": "1",
+        "INVOICE_ID": "96002",
+        "ORGANIZATION_ID": "300000044915830",
+        "LAST_USED_SEG": "01-000-22100",
+        "LAST_USED_DESCRIPTION": "01 Company-No Dept-Accounts Payables",
+        "CODE_COMBINATION": "001.110.221500.000.000.000.0000",
+        "CODE_COMBINATION_DESC": "GDS Aerospace mfg.Facilities Resources.Accrued Receipts.Default.No Company.Default.Default",
+        "Probability": 6
+    },
+    "1": {
+        "BU_NAME": "ABC Business Unit",
+        "SUPPLIER_NAME": "Quess Corp Ltd",
+        "SUPPLIER_SITE": "Delhi",
+        "INVOICE_NUM": "ERS-22950-113084",
+        "INVOICE_DATE": "2006-05-25T00:00:00.000+00:00",
+        "LINE_NUMBER": "1",
+        "LINE_DESCRIPTION": "IND_GST_REGIME - IND-IGST",
+        "DISTRIBUTION_LINE_NUMBER": "1",
+        "INVOICE_ID": "96004",
+        "ORGANIZATION_ID": "300000044915830",
+        "LAST_USED_SEG": "",
+        "LAST_USED_DESCRIPTION": "",
+        "CODE_COMBINATION": "101.1001.325107.9999.9999.9999.9999",
+        "CODE_COMBINATION_DESC": null,
+        "Probability": 40
+    }
+}

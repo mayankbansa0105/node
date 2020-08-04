@@ -1,0 +1,36 @@
+[
+  {
+    "BU": "NYC",
+    "Supplier": "Google",
+    "SupplierSite": "Yonkers",
+    "InvoiceNo": "Inv#01",
+    "InvoiceDate": "2019/10/09", 
+    "LineNo.": "2",
+    "LineNoDesc": "Food Item",
+    "DistrubutionNo": "3",
+    "PredictedCodeCombination": "3321.1254",
+    "PredictedCodeCombinationDesc": "SiteAccount CC",
+    "Probability": "22%",
+    "LastUsedCodeCombination": "12312.422",
+    "LastUsedCodeCombinationDesc": "Site Account CC",
+    "FinalCodeCombi": "33.2541.25",
+    "SelectedValue": "35.2541.25"
+  },
+  {
+    "BU": "CAL",
+    "Supplier": "Amazon",
+    "SupplierSite": "New York",
+    "InvoiceNo": "Inv#03",
+    "InvoiceDate": "2019/11/09", 
+    "LineNo.": "2",
+    "LineNoDesc": "Food Del",
+    "DistrubutionNo": "3",
+    "PredictedCodeCombination": "4321.1254",
+    "PredictedCodeCombinationDesc": "SiteAccount ACC",
+    "Probability": "21%",
+    "LastUsedCodeCombination": "12312.422",
+    "LastUsedCodeCombinationDesc": "Site Account ACC",
+    "FinalCodeCombi": "35.2541.25",
+    "SelectedValue": "35.2541.25"
+  }
+]

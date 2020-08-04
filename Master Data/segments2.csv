@@ -1,0 +1,1539 @@
+SEGMENT_VALUE,DESCRIPTION
+40000,Retained Earning
+40005,Liabibility
+30040,BARTER REVENUES
+50010,PROMOTION PAPER
+1112,Accounts Receivable - Clearning
+2003,Accounts Payable - Other
+10,IT
+999,No department1
+000,No Department
+102,Conversion rate gain
+103,Retained Earnings 
+12101,Short Term Marketable Securities
+13003,Accounts Receivable - Clearing
+13004,Dividend Receivable 
+13501,Interest Receivable on ST Notes Receivable
+14599,Prepaid Other
+15006,Cost Investments Interest Rec
+1100,CC1
+18501,Customer Relationships
+18507,Backlog
+19503,Accumulated Amort Deferred Loan Costs
+19504,Cash Surrender Value Officers' Life
+20003,Intercompany Interest Receivable/Payable
+21311,Accrued Withholding - 401K
+21313,Accrued Withholding - FSA Withholding 1
+21318,Accrued Control Account
+23402,Deferred Revenue - Current
+24005,Income Taxes Payable Federal
+26503,Deferred Taxes FCTA
+32001,Additional Paid In Capital
+34002,Foreign Currency Translation Adjustments
+40001,Sales Electronic Retailing
+40003,Revenue - Charity 
+50001,Cost of Svcs - Revenue Share & Royalties
+64007,Office Rent
+67004,Public Relations Other
+68501,Director's Fees
+69004,Allocation of Rent
+71999,Amortization Other Long Term Assets
+72002,Impairment Other Intangibles
+84008,Gain/Loss Current Liabilites
+84014,Gain/Loss Proceeds Cash
+84017,Gain/Loss Derivatives
+84999,Gain/Loss Proceeds Other
+87104,Interest Income Other
+89503,Current Tax Discontinued Operations
+89504,Deferred Income Tax Federal Discontinued Op
+0,Account Value
+20002,Depreciation
+1001,
+2000,
+203,HP-SS-2-Language Training
+501,HP-SS-2-Finance and Operations 
+901,HP-SS-2-IT
+100,Default
+3024200000,PAID IN CAPITAL
+1200000004,On-Account Receipts
+2000,Total Liability
+4020,Unbilled Receivables
+100000003,OU3
+100000003,RBS Org 3
+1011200000,Intercompany Receivables
+1111010001,Furniture
+2225550004,Mudharabah
+2235910000,Accrued expenses
+2236216032,Investor sharing account
+3452210001,Retained Earnings
+3452210002,Retained Earnings
+4525310000,Real Estate Ijara
+4526050000,Saving account deposits
+4536110001,LC
+4552638094,Other income
+4552810030,Banking fees
+5723010019,Administrative
+5723011001,Administrative
+5723030007,Professional
+50001,Retained Earnings
+20000001,Account Receivables
+1230,Machineries
+2310,Inventory AP Accrual
+4220,Other Revenues
+5120,Advertisement
+103,Special Operations
+0000,Budget Entries
+0431,Renewable Generation
+0505,Electric Fuel
+0506,Regulatory Strategy
+0509,NERC Compliance and Generation Operations
+0517,Customer Center
+0518,Customer Services
+0540,Economic Development
+0544,Residential and Community Service
+0631,Energy Operations Administration
+20,Active LoBs
+50,Citrus
+10120301,TP-CE-2-International-Flagship
+10120302,TP-CE-2-International-Signature
+11010,Cash Checking - Others
+11118,Cash Savings- Barclays
+13014,Intercompany Labor Costs Receivables
+13017,Intercompany Freight Costs Receivables
+00000000,Default
+13023,Intercompany RandD Costs Receivables
+13027,Intercompany Legal Fees Receivables
+13031,Intercompany Insurance Costs Receivables
+13044,Intercompany Print Media Advertising Receivables
+13048,Intercompany Brand Development Costs Receivables
+13049,Intercompany Employee Benefits Costs Receivables
+13060,Bad Debt Reserve
+13125,Tax Recoverable Receivable
+14010,Inventory - Raw Materials and Supplies
+14040,Inventory - White Wines
+14050,Inventory - Domestic Cheeses
+14060,Inventory - Imported Cheeses
+15010,Prepaid Rent
+15452,Bonus Reserve
+17400,Buildings
+17500,Leasehold Improvements
+17600,Machinery and Equipment
+17710,Asset Clearing
+21030,Accrued Payroll Taxes
+21050,Short Term Debt Payable
+21083,Intercompany Travel Expense Payables
+21090,Intercompany Marketing Costs Payables
+21110,Intercompany Employee Training Costs Payables
+21124,Intercompany Rebate Programs Costs Payables
+21511,State Income Taxes Payable
+21525,Automatic Withholding Tax
+21529,Finance Charge Tax Payable
+21530,Sales and Use Taxes Payable
+24990,Other Current Liabilities
+42101,Exchange Rate Variance Gain
+52130,Cost of Goods Sold- Domestic Cheeses
+52147,Price Variance Account
+52149,Materials
+52154,Bonus Expense
+52210,Cleaning Services
+52340,Printing and Binding
+52385,Contract Labor
+53320,Waste Disposal
+53332,Mobile Phone Charges
+53410,Internet Expenses
+53443,International Airfare
+53446,International Taxi
+53455,Parking
+53520,Small Tools Expenses
+53530,Tractor Tires
+56015,Other Capital Assets Depreciation
+56110,Proceeds of Sale Gain
+75555,Bad Debt Expense
+420,Consulting
+580,Maintenance
+200,Sales
+000000000,Default
+100000781,
+100000783,
+50001,Retained Earning
+320050,Retained Earnings
+50001,Retained Earning
+A0001,Assets
+000,Default
+101,VC US - CST
+20000,Asset
+30000,Revenue
+L1010,Commercial Road Vehicles
+L1020,Train Manufacture
+112,RandD Mfg
+222,GandA Rest of Canada
+430,Packaging Operations
+535,Inventory
+536,Tax
+601,Northwest Warehousing
+603,Northeast Warehousing
+101,Assets
+002,Chennai
+60,Trading
+104,Financing
+300,Technology Services
+0000,Default Dept
+121013,Umm Al Qwain Hospital
+100,
+30,Chocolates
+20,Active LoBs
+40,Cherries
+50,Citrus
+60,Trading
+70,International Ops
+100,Finance
+100,Sales
+200,HR
+110,Administration
+200,Dept 2
+106000,IT
+109000,Acturial
+110000,Sales
+114,Finace Project
+212,Recruitment
+10001,ASSET
+212,Recruitment
+200,IT
+30000,REVENUES - SUBSCRIPTION
+50000,PROMOTION MATERIAL
+90000,Store Count - Statistical Account
+3002,DEDICATED INBOUND
+100,Finance
+10,IT
+120,120 for alloc
+30,Healthcare
+10001,Concentration Accounts
+10013,Employee Benefits
+12601,Accrued Interest on ST Investments
+13002,Accounts Receivable Allowance
+14502,Prepaid License Fees
+15007,Cost Investments Interest Reserve
+15505,Eqty Inv Excess-Held For Invest Purposes
+15506,Eqty Inv Susp Loss-Held For Invest Purpo
+16102,Buildings
+16104,Support Equipment
+16110,Capital In Progress
+16602,Accum Deprec Furniture And Fixtures
+16607,"Accm Depr Satellite Telemetry, Tracking"
+17001,Investment In Consolidated Sub
+18505,Capitalized Software
+18508,Accum. Amort. Backlog
+18511,Technology
+18998,Other Amortizable Intangibles
+21310,Accrued Withholding - Payroll Tax
+21999,Accrued Liabilities Other
+24009,Income Taxes Payable Foreign
+24501,Deferred Revenue - Long Term
+25003,Fair Value Adjustment On Debt
+29002,Redeemable Inter-Group Interest
+30002,Class B - Common Stock
+32002,Unearned Compensation
+60004,Other Compensation
+60008,Human Resource Expense
+60009,Employee Benefits
+62004,Professional Services - Tax
+64013,Personal Property Expense
+67003,Investor Relations Other
+67999,Other Licenses & Taxes
+68504,Employee Training Expense
+68507,Charitable Contributions
+68999,Other SG & A
+69002,Airplane Allocation
+69501,Gain/Loss-Legal Settlement
+70002,Depreciation Furniture And Fixtures
+81005,Interest on Deferred Compensation Officers
+84003,Gain/Loss Equity Method Investments
+84007,Gain/Loss Other LT Assets Accum
+84010,Gain/Loss Debt
+84013,Gain/Loss Other Liabilities
+84015,Gain/Loss Proceeds Note
+87102,Interest Income Cost Method Investments
+87103,Intercompany Interest Income/Expense
+88003,Federal & State Tax Expense-At&T
+89501,Discontinued Operations
+003,Retained Earnings
+00000000,No Department
+116,Retained earning
+000,Common
+601,HP-SS-2-Legal and Compliance 
+10004,Kanye
+1101000002,BONDS - TIPS BV DIFF
+2007001030,NOTES PAYABLE - LINE OF CREDIT
+2007001200,NOTES PAYABLE - AUTOS
+1010,Plant Machinery
+1020,Building
+20001,Asset 1
+100000001,RBS Org 1
+1010040001,Exchange of Deposit (Due from Banks)
+1011526005,Exchange of Deposit (Due from Banks)
+1055910000,Trading Sukuk
+1090780020,Receivable
+1225036037,Product inventory - Foreign Currency
+1527252502,Investment management service
+2235039258,Product inventory - Foreign Currency
+4525920000,Investment in Securities
+5712930012,Other staff cost
+5775750001,Investment in Funds
+40000001,Expenses
+1140,Other Current Assets
+2210,Buildings-AD
+2320,Expense AP Accrual
+101,Consulting
+10012,Cash
+101,LOB 1
+0101,President and CEO
+0303,Insurance - West Campus CoGen
+0426,Blount Operations and Maintenance 
+0429,Energy Production
+0541,Energy Products and Services
+0609,Gas Engineering
+0612,Operations Support
+0623,Construction Engineering
+0735,Information Security
+30,Chocolates
+10000005,APJ C1 Legal and Compliance
+10000013,APJ C2 Advisory Office
+10000014,APJ C2 IT Department
+10120101,TP-CE-2-Operation
+10120402,TP-CE-2-Unplanned-International
+1400,Marketing
+11016,Cash Checking- Citi
+11110,Cash Savings - BA
+11116,Cash Savings- Citi
+13011,Intercompany Revenue Receivables
+13013,Intercompany Travel Expense Receivables
+13024,Intercompany Telecom Costs Receivables
+13042,Intercompany Patent Costs Receivables
+13043,Intercompany Trade Publications Costs Receivables
+13051,Intercompany Education Program Receivables
+13070,Unbilled Accounts Receivable
+13073,Remittance
+13075,Rent Receivable
+13121,Finance Charges Receivable
+15015,Prepayments
+16010,Proceeds of Fixed Assets Sale Clearing
+17390,Accumulated Depreciation - Furniture
+17899,Accumulated Depreciation - Computers
+17910,CIP Cost
+21091,Intercompany Outreach Programs Payables
+21092,Intercompany Promotion Costs Payables
+21098,Intercompany Interest Payables
+21102,Intercompany Trade Group Fees Payables
+21105,Intercompany Employee Programs Costs Payables
+21121,Intercompany Education Program Payables
+21125,Intercompany Facility Costs Payables
+21155,Prepaid Revenue
+21510,Federal Income Taxes Payable
+39999,Temporary Closing Account
+40118,Finance Charges
+42104,Realized Exchange Rate Loss
+42121,Unallocated Revenue
+42125,Miscellaneous Revenue
+52221,Repairs and Maintenance - Office Equipment
+53210,Water
+53456,Travel Advance Return
+56019,Deferred Depreciation Expense
+56553,Finance Charges
+60002,Office Supplies
+60003,Postage Expense
+60004,Delivery Tips
+2000,Information Tech
+3000,Finance/Corp Services
+5000,Revenue Dept
+9999,Allocations
+120,Machine Resources
+480,Marketing
+720,CFO Office
+770,Order Entry
+10,IT
+100,Purchase
+100001003,
+10001,Cash
+20001,Payables Liability
+40002,Depreciation
+200010,OSLR - Ext
+400010,Written Prem - Ext
+400012,Written Prem - Int
+10001,Cash
+30001,Revenue Acct
+E0001,Expenses
+50001,Retained Earnings
+111,RandD Growing
+420,Wine Making Operations
+552,Facilities
+120,Sales
+101,Mining
+ND0000,Non-departmental
+121001,Al Dhaid Hospital
+121009, Ibrahim Obaid Allah Hospital
+121011,Al Qassimi Hospital
+101,Retain Earning
+101,Supply Chain
+40,Cherries
+101,ABE Corporate Department
+000,Common
+300,Department 300
+101,Cose Center 1
+000,Balance Sheet
+120,Sales
+000,Balance Sheet
+400,Corporate
+100,Department 1
+102000,Human Resource 
+108000,Communication
+1100,HR
+300,SALES
+40003,Budgetary Debit
+20000,Assets
+30020,REVENUES - NEWSSTAND
+50070,BILLING LETTERSHOP
+50080,BILLING POSTAGE
+55000,Receivables
+1000,Cash
+6180,Professional Fees - Consulting
+30000,Payables
+000,No Dept
+103,Warehouse
+10,None
+20,Banking
+100,
+50,Aerospace
+10007,Brokerage Accounts
+10014,Stock Compensation
+10015,Bank Transfer Clearing 
+14507,Prepayment Account 
+15503,Equity Investments FAS109
+15504,Equity Inv Basis-Held For Invest Purpose
+16108,"Satellite Telemetry, Tracking & Control"
+16109,Fixed Asset Clearing
+16111,CIP Clearing 
+17501,Derivative Instruments
+2100,CC2
+17502,Put/Call Option Derivatives
+21301,Accrued Property Tax
+21312,Accrued Withholding - 401k Loans
+23999,Other Current Liabilities
+24006,Intercompany Taxes Payable Federal
+25005,Accumulated Amort Deferred Loan Costs
+30003,Class C - Common Stock
+39001,Noncontrolling Interest
+64002,Cafeteria - Non Food
+64008,Utilities
+64012,Telephone Expense
+64014,Postage/Delivery/Courier
+66501,Aircraft Maintenance
+68502,Insurance Expense
+68506,Relocation Expense
+68508,Non-Deductible Contributions
+71003,Amortization Traveler Relations
+72001,Impairment Excess Cost
+81002,Interest Deferred Loan Costs
+84001,Gain/Loss Current Assets
+84005,Gain/Loss Other Intangibles Accum
+84006,Gain/Loss Other Long Term Assets
+84023,Gain/Loss Excess Cost Accum
+87101,Interest Income ST Investments
+88001,Tax Expense-Lic
+88006,Current Income Tax Foreign
+88009,Deferred Income Tax Federal
+10002,Receivable
+0000,Default Dept
+000,RochelleDept
+All,All Depatments
+202,HP-SS-2-Scholarships
+1011010000,FIXED MATURITIES-TRADING
+1101000001,AAM CONVERTIBLE ADJ TO MKT
+5000000002,Discounts
+1200000001,Account Receivables
+5110300200,LOSSES PAID - RECOV - SALVAGE
+3000,Total Expenses
+4010,Sale
+1010200000,Receivables
+2226040000,Current account deposits
+2231750002,Account payable
+3412010001,Share Capital 
+4525300013,Ijara
+4526040001,Current account deposits
+4526040003,Current account deposits
+4536011100,Travellers Checks
+5712920012,Allowance
+5723010020,Administrative
+11100,Accounts Receivable
+L0001,Liability
+40000,
+50000002,Retained Earning
+100,KP1
+110,KP2
+1120,Inventory
+1220,Furniture
+2130,Short Term Loans
+2140,Other Current Liabilities
+3220,Retained Earnings - Reserve
+5140,Other Expenses
+0202,Corporate
+0201,CFO
+0216,Joint Plant Expenses
+0507,Energy Supply Policy
+0601,Supply Chain
+0611,Division Operations
+22,None
+10000010,APJ C2 Finance and Operations 
+10000012,APJ C2 Marketing & Communication
+00000000,Default
+10120100,TP-CE-Operation
+10120202,TP-CE-2-Local-Signature
+11117,Cash Savings- HSBC
+13005,Accounts Receivable
+13018,Intercompany I/T Costs Receivables
+101,Retail
+13019,Intercompany Trade Show Costs Receivables
+13026,Intercompany Accountants' Fees Receivables
+13028,Intercompany Interest Receivables
+13029,Intercompany Professional Fees Receivables
+13035,Intercompany Employee Programs Costs Receivables
+13036,Intercompany Transportation Costs Receivables
+13040,Intercompany Employee Training Costs Receivables
+13047,Intercompany Internet Advertising Receivables
+13053,Intercompany Channel Development Costs Receivables
+13056,Intercompany International Trade Fairs Costs Receivables
+13065,Interest Receivable
+13071,Auto Invoice Clearing
+13074,Unapplied Receipt
+13080,On Account Receipt
+13124,Non-Recoverable Adjustment Receivable
+17690,Accumulated Depreciation - Machinery and Equipment
+21020,Accrued Salaries and Wages
+21040,Employer's Share of Employee Benefits Current Payables
+21088,Intercompany I/T Costs Payables
+21089,Intercompany Trade Show Costs Payables
+21095,Intercompany Consulting Fees Payables
+21117,Intercompany Internet Advertising Payables
+21119,Intercompany Employee Benefits Costs Payables
+21140,Deferred Revenue
+21175,Expense Accrual Account
+21177,Non-Recoverable Earned Discounts Payable
+21179,Non-Recoverable Adjustment Payable
+21526,Tax Recoverable Payable
+21528,Tax Recoverable Payable- Tax Recovery Rate
+31040,Cumulative Translation Adjustment
+41130,Intercompany Interest
+42102,Realized Exchange Rate Gain
+42103,Exchange Rate Variance Loss
+52120,Cost of Goods Sold- White Wines
+52146,Freight
+52320,Public Relations Services
+52360,Dues and Fees
+53436,Domestic Toll
+56010,Buildings Depreciation
+56016,Vehicles Depreciation
+56017,Computers Depreciation
+56020,Equipment Scrapping
+56111,Proceeds of Sale Loss
+56520,Local Taxes
+58420,Penalties and Late Fees
+60041,Miscellaneous Expenses
+60044,Cross Currency Rounding Account
+90001,Dept Headcount
+430,Commercial Sales
+510,Material Control
+760,Payroll
+CFO,CFO Office Management
+40001,Travel Exp
+07,Delhi-Gurgaon
+09,Chennai-Marina
+500400,Change in Risk Margin SII
+0000,Default 
+RR001,Revenue
+2225,
+30,Apps2Fusion
+102,IT
+110,RandD US
+312,Sales and Marketing CAD
+534,Fixed Assets
+00000,Non-Specific Location
+000,Coimbatore
+40,Cherries
+70,International Ops
+102,Physical Trading – Oil
+0000,Default Dept
+121006,Kalba Hospital
+1002,XYZ Branch Pune
+104,Corporate
+50,Citrus
+70,International Ops
+10001,AMP Liability Account
+300,Retained Earning
+230,Dept 2 Child 3
+999999,Default
+10010,CASH 1
+20010,ACCOUNTS PAYABLE
+30030,REVENUES - PRODUCTS
+50040,PROMOTION POSTAGE
+0000,Default Account
+8401,Rate variance Gain
+40000,Retained Earnings
+400,Sales
+103,HR
+30,HR
+130,130 for alloc
+301,Administration
+10006,Investment Portal Clearing
+10010,Other Cash Equivalents
+10995,Petty Cash
+13010,Accounts Receivable - Control Account
+16101,Land
+16103,Furniture & Fixtures
+3100,CC3
+18101,Excess Costs
+18503,Licensing Agreements
+18514,Accum. Amort. Customer/Partner/Franchise Relationships
+18516,Accum. Amort. Affiliate Agreements
+20001,Departmental Intercompany
+21101,Accounts Payable
+21302,Accrued Legal Fees
+21303,IBNR
+21305,Accrued Accounting Fees
+21306,Accrued Interest Payable
+21307,Accrued Deferred Compensation - Current
+21308,Accrued Salaries
+21316,Accrued Withholding - Cobra Withholding
+23001,Current Portion Of Debt
+29001,Other Liabilities Accrued Sars
+32003,Partners' Equity
+60005,Personnel Allocation
+60006,Contract Labor G&A
+60007,Payroll Taxes
+62001,Legal Expense
+64001,Cafeteria Supplies
+64005,Building Repairs
+64006,Office Equipment Rent
+64017,Information Technology
+67002,Investor Relations Print & Prod
+67901,Franchise Tax
+68510,Miscellaneous Office Expense
+84004,Gain/Loss Other Intangibles
+84009,Gain/Loss Accrued Interest
+84019,Gain/Loss Accum PP&E
+84016,Gain/Loss Proceeds Stock
+84020,Gain/Loss Other Comprehensive Income
+84021,Gain/Loss Sale of Securities
+87501,Foreign Exchange Gain/Loss
+87999,Other Expense/Income
+Val02,Revenue
+20001,Payables liability
+15,Trading
+16,International Ops
+IND01,SGS_INDIA
+401,HP-SS-2-Human Resources
+801,HP-SS-2-Advisory Office
+10003,Palape
+102,Retail
+1103,Asset
+1234,
+2007001000,NOTES PAYABLE - BANKS
+5000000001,Exchange Rate(Gain/Loss)
+4000000001,Revenue
+2347,Asset2347
+1040,Cash
+2010,Loans
+2030,Payroll Accrual
+4030,Discount Taken
+1060510008,Investment in Joint Venture
+2228000000,Saving account deposits
+2231710033,Other Liability 
+2231719229,Other Liability 
+2236170000,Payorder/ Demand Draft
+4526300000,Credit Card
+4528000003,TCD
+4552628037,Financing Fees
+5775360000,Local Lease
+5775780000,Other Investments
+10010,Cash Clearing Account
+20001,Accrued Liabilities
+10000,
+50000001,Equity
+000,Unspecified
+8001,Average Balances - Branch
+9999,Common
+1210,Buildings
+2230,Machineries-AD
+4120,Revenue 2
+301,Products
+101,Investmet
+0204,Accounting
+0219,Finance and Business Planning
+0323,Environmental Affairs
+0543,Web Services
+0610,Gas Construction and Operations 
+0626,Substations
+ND0000,Non-departmental
+10,None
+10000003,APJ C1 Human Resources
+10000004,APJ C1 Finance and Operations
+10000006,APJ C1 Marketing & Communication
+10000008,APJ C1 IT Department
+10000015,APJ C2 Operations Department
+10120401,TP-CE-2-Unplanned-Local
+11015,Cash Clearing
+11018,Cash Checking- Barclays
+13012,Intercompany Rent Receivables
+13020,Intercompany Marketing Costs Receivables
+13025,Intercompany Consulting Fees Receivables
+13032,Intercompany Trade Group Fees Receivables
+13034,Intercompany Entertainment Costs Receivables
+13038,Intercompany Packaging Design Costs Receivables
+13076,Factored Receipts
+13079,Unidentified Receipt
+13160,Credit Card Chargeback
+15020,Prepaid Insurance
+17200,Site Improvements
+17300,Furniture
+17490,Accumulated Depreciation - Buildings
+17810,Computers
+21060,Contracts Payable
+21106,Intercompany Transportation Costs Payables
+21126,Intercompany International Trade Fairs Costs Payables
+21178,Non-Recoverable Unearned Discounts Payable
+52150,Manufacturing Salaries
+52152,General Administration Salaries
+52370,Education and Training
+53220,Natural Gas
+53310,Sewage
+53435,Domestic Taxi
+53445,International Car Rental
+53447,International Telephone Charges
+53426,Customer Gifts
+53510,Irrigation Expenses
+56001,Goodwill Amortization
+101,IT
+103,HR
+110,Facilities Resources
+130,Computer Resources
+410,Sales Management
+540,Testing
+620,Configuration Management
+630,Software Engineering
+640,Mechanical Engineering
+730,Legal
+0,No Department
+01,Mumbai Fort
+2000,IT
+10002,Receivables
+20001,Payables Liability
+L0001,Liability
+R0001,Retained Earnings
+000,None
+120,RandD Canada
+541,Packing
+542,Shipping
+551,Human Resources
+602,Southwest Warehousing
+609,Rockies Warehousing
+102,Expense
+100,None
+300,Technology Services
+121002,Al Baraha Hospital
+121007,Kuwait Hospital
+121015,Abdullah Bin Omran Hospital
+1001,XYZ Branch Mumbai
+102,Finance
+20,Active LoBs
+60,Trading
+100,Department 100
+10003,AMP Expense Account
+000,Default
+400,Corporate
+10,None
+40,Cherries
+101000,Branch Office
+105000,Marketing
+000,Default Cost Centre
+112,Finance Operation
+00000,Default
+40004,Expense
+40000,Liability Account
+50030,HOUSE ADS CHARGE AND EXPENSES
+50060,PERSONALIZATION
+2002,Accounts Payable - Trade
+30001,Expenses 1
+101,IT
+000,No Department
+000,No Dept
+100,Liability
+100,IT
+000,Default
+101,Finance
+10005,Investment Portal Accounts
+10016,Other Clearing 
+13001,Accounts Receivable
+13005,Unapplied Cash
+13498,Accounts Receivable - Related Party
+13502,Other Current Assets
+15502,Equity Investments Excess Cost
+16603,Accumulated Deprec Support Equip
+16604,Accum Deprec Computer & Broadcast Equip
+17504,Interest Rate Swaps
+18102,FCC Licenses
+18103,Trademarks
+18509,Supply Contracts/Relationships
+21314,Accrued Withholding - FSA Withholding 2
+21998,Accrued Liabilities Related Party
+23003,Current Portion of Deferred Loan Costs
+24002,Tax Sharing With Interactive
+29999,Other LT Liabilites
+33001,Treasury Stock 
+40002,Revenue - Subscription
+60003,G&A Salaries Perks
+60001,G&A Salaries Regular
+60002,G&A Salaries Bonuses
+64015,Accounting & MIS
+66002,Travel Meals & Entertainment
+67006,SEC Filing Printing Fees
+68505,Pre Employment Costs
+68509,Lobbying Expense
+69001,Allocation of Corporate Overhead
+69005,Allocation of Payroll
+71001,Amortization Excess Cost
+72003,Impairment Cost Investments
+84018,Gain/Loss Cost PP&E
+86004,Unrealized G/L-FAS159 Securities
+87107,Interest Income Cost Reserve
+87201,Unrealized Gain/Loss on Inter-Group Interest 
+87504,SAB 51 Gain/Loss
+88008,Current Income Tax IC State
+89502,Federal Intercompany Tax Discontinued Op
+ASD,Arts & Science Division
+Val01,Expense
+201,HP-SS-2-Chairman Office
+10005,Francistown
+104,HR
+100,Finance
+200,HR
+400,Sales
+1101000003,BONDS - BV DIFF
+1102,Test
+1000000001,Cash
+1200000003,Unidentified Receipts
+1030,Receivables
+2020,Accounts Payables
+2040,Unearned Revenue
+3030,Misc Expenses
+3040,Discount Provided
+4000,Total Revenue
+100000001,OU1
+100000002,OU2
+100000004,OU4
+1010010002,Cash and cash equivalent
+1090816013,Gold vault
+1095801242,Trade Receivables
+1225036010,Product inventory - Foreign Currency
+2225550003,TCD
+2226050001,Saving account deposits
+2231860003,Intercompany Payables
+2236170001,Margin
+2261010001,Furniture
+4526040000,Current account deposits
+4552810002,Banking fees
+5722640002,Subscription
+5723010023,Administrative
+5723070007,Marketing and sales promotion
+130,KP4
+5010,Retained Earning
+120,KP3
+1130,Supplier Advances
+2120,Customer Advances
+2340,Long Term Liabilities
+5110,Salary and Wages
+102,Advisory
+0203,Internal Audit
+0302,Insurance - Corporate
+0501,Enterprise Forward
+0531,Customer Data Services
+0542,Marketing Information
+0604,Gas Meter Shop
+0614,Service Engineering
+0732,Project Management Office
+0734,Enterprise Systems
+0736,Telecommunications
+10000001,APJ Group CEO Office
+10000009,APJ C1 Operations Department
+10120000,TP-Community Engagement
+1300,Sales
+00000,Default
+13015,Intercompany Warehouse Costs Receivables
+13022,Intercompany Promotion Costs Receivables
+13033,Intercompany Repair and Maintenance Costs Receivables
+13037,Intercompany Tax Expense Receivables
+13039,Intercompany Administrative Costs Receivables
+13120,Late Charges Receivable
+15451,Prepayment Tax Difference
+17830, Depreciation Reserve Adjustment
+21010,Accounts Payable
+21011,Accounts Payable- Adjustments
+21022,Accrued Bonuses
+21070,Bills Payable
+21081,Intercompany Purchase Payables
+21086,Intercompany Shipping Costs Payables
+21096,Intercompany Accountants' Fees Payables
+21103,Intercompany Repair and Maintenance Costs Payables
+21109,Intercompany Administrative Costs Payables
+21114,Intercompany Print Media Advertising Payables
+21116,Intercompany TV Advertising Payables
+21145,Interest Payable
+21150,Rent Payable
+21170,Lease Payable
+21180,Due to Investors
+31010,Retained Earnings
+31030,Minority Interest
+40110,White Wine Revenue
+40111,Red Wine Revenue
+40115,Imported Cheese Revenue
+41140,Interest Income
+41160,Freight Income
+41210,Gain on Sale of Capital Assets
+52148,Quantity Variance Account
+52151,Sales Salaries
+52310,Insurance
+52350,Temp Services
+52390,Employee Rideshare Commute Incentive Program
+53250,Oil
+53331,Land Phone Charges
+53421,Bank Charges - Domestic
+53431,Domestic Accommodation
+53550,Vine Trellis Materials
+56014,Machinery and Equipment Depreciation
+56510,Federal Taxes
+56511,State Taxes
+56540,Sales Taxes
+57990,Leasing Service Charges
+0000,Default
+000,Balance Sheet
+450,Support
+460,Government Sales
+470,Training
+530,Fabrication
+560,Production Lab
+610,Engineering Management
+820,Travel & Entertainment
+20,Finance
+100000778,
+100000808,
+100000814,
+103,IT
+10002,Receivables
+04,Bangalore-Sarjapur
+05,Bangalore-BMP
+06,Bangalore-RMZ
+100040,Bank of B Corporate Acct
+1001,Marketing
+4000,Admin
+2990,
+3300,Retain
+730,
+50000,Liability
+000,No Department
+101,Finance
+L0000,All Line Of Business
+210,GandA US
+521,CFO Office
+522,Treasurer Office
+523,Controller Office
+533,General Accounting
+610,Gulf Warehousing
+10,None
+20,Active LoBs
+50,Citrus
+100,None
+0000,Inter company exchange 
+121008,Masafi Hospital
+121016,Amal Hospital
+000,Default
+30,Chocolates
+000000,Default
+200,Marketing
+12000,Cash
+000,Default
+110,Administration 
+20,Active LoBs
+60,Trading
+70,International Ops
+10004,EXPENSE
+400,ADMIN
+40002,Budgetary
+20030,A/P PSI (LEGAL ENTITY ADJUSTMENT)
+29300,PAID-IN CAPITAL - CLASS A
+50020,BILLING MATERIAL
+50050,PROMOTION LETTERSHOP
+2899,Retain Earning
+6501,Rent
+102,Finance
+20,Finance
+30,HR
+101,Finance
+30,Advisory Services
+103,
+110,110 for alloc
+20,Retail
+0000,Unspecified
+10008,Cash Deposits
+10009,Cash Deposits Clearing
+10012,Payroll Accounts
+14504,Prepaid News Service
+15005,Inter-Group Int-Held For Invest Purposes
+15501,Equity Investments Basis
+16601,Accum Deprec Buildings
+16605,Accum Deprec Satellite System
+18510,Accum. Amort. Supply Contracts/Relationships
+18512,Accum. Amort. Technology
+18517,Other Amort Intangibles (Tradenames)
+19501,Deposits Long Term
+19998,Other Long Term Assets
+20002,Intercompany Note Receivable/Payable
+21304,Accrued 401K Forfeiture 
+21317,Accrued Careertrack Pension Liability
+23002,Current Portion Of Fair Value Adjustment
+23401,Deferred Credit On Executory Contracts
+23403,Deferred Merchant Bookings
+30001,Class A - Common Stock
+62002,Auditing Expense
+62003,Consulting Expense
+62005,Deal Costs
+64003,Office Supplies
+64009,Janitorial Services
+64010,Security Expense
+64016,Subscriptions
+66001,Travel General
+66502,Managment Fee-Fractional Aircraft Leases
+67001,Investor/Analyst Meeting Expenses
+67005,Marketing Costs Other
+67503,Treasury Expense
+68511,Contribution Expense
+69003,Rental Income Overhead Allocation
+69601,Restructuring Charges
+69801,Stock Compensation Expense
+70003,Depreciation Support Equipment
+71007,Amortization Affiliate Agreements
+81003,Interest on Deferred Compensation JCM
+83001,Equity In Earnings
+87503,Interest & Tax Penalty
+ED,Education Division
+004,Liability
+113,Receivables
+12,Acc Value
+40001,Travel exp
+50001,Retain Earning
+3000,
+12,Chocolates
+13,Cherries
+701,HP-SS-2-Marketing & Communication
+10000,Default
+10002,Lobatse
+101,Finance
+000,No Dept
+2200000001,Tax Payables
+2346,Asset2346
+1200000002,Unapplied Receipts
+1000,All Assets
+3010,COGS
+30001,Expenses 1
+100000004,RBS Org 4
+100000006,RBS Org 6
+1090710008,Prepayments
+1111020001,Equipments
+2035556007,Mudharabah
+2226040016,Current account deposits
+2226050011,Saving account deposits
+2236140001,Trade Payables
+4536140000,Payorder/ Demand Draft
+4536140001,Payorder/ Demand Draft
+5712910016,Salaries & Wages
+5731010001,Furniture
+10001,Cash
+30001,Sales Revenue
+40001,Payroll Expense
+A0001,Assets
+E0001,Expenses
+10000001,Suppliers Liability
+999661,Dummy ABC Tax A/C
+1110,Receivables
+10014,Revenue
+10016,Owners Equity
+0304,Administrative Support
+0305,Records Management
+0512,Customer Billing
+0622,Distribution Asset Management
+0737,Middleware Application Support
+0806,Facilities  
+10120201,TP-CE-2-Local-Flagship
+10120400,TP-CE-Unplanned
+12011,Investments Dairy
+13059,Intercompany University Programs Costs Receivables
+13072,Receipt Confirmation
+13150,Credit Card Refund
+14030,Inventory - Red Wines
+17590,Accumulated Depreciation - Leasehold Improvements
+17890,Accumulated Depreciation - Vehicles
+21021,Accrued Vacation
+21082,Intercompany Rent Payables
+21093,Intercompany RandD Costs Payables
+21099,Intercompany Professional Fees Payables
+21107,Intercompany Tax Expense Payables
+21111,Intercompany Vintner's Associations Fees Payables
+21112,Intercompany Patent Costs Payables
+21118,Intercompany Brand Development Costs Payables
+21120,Intercompany Publicity Expenses Payables
+21123,Intercompany Channel Development Costs Payables
+21128,Intercompany Research Grants  Payables
+21129,Intercompany University Programs Costs Payables
+21176,Cost of Removal Clearing
+21520,Property Taxes Payable
+21527,Interim Tax Payable
+42120,Receipt Write Off
+52110,Cost of Goods Sold- Red Wines
+52140,Cost of Goods Sold- Imported Cheeses
+52200,Property Landscaping Services
+52232,Rent- Equipment and Vehicles
+52330,Advertising
+52388,Entertainment
+53434,Domestic Trains/Trams/Ferry
+53444,International Car Rental
+53448,International Trains/Trams/Ferry
+56013,Leasehold Improvements Depreciation
+56018,Unplanned Depreciation Expense
+56113,Cost of Removal Gain
+56120,Net Book Value Retired Gain
+56121,Net Book Value Retired Loss
+58430,Recruiting Expenses
+60042,Suspense
+1100,Human Resources
+140,Communications Resources
+550,Quality Assurance
+740,Corporate Finance
+30,HR
+300,HR
+100000969,
+03,Mumbai-Thane
+300010,Share Capital - Class A
+504010,Loss Exp Paid - External
+40001,Travel Exp
+40002,Depriciation
+10000,Retained Earnings
+40000,Expense
+104,HR
+L1000,Passenger Road Vehicle
+220,GandA Canada
+221,GandA Quebec
+410,Growing and Harvesting Operations
+553,Security
+607,Midwest Warehousing
+200,KE-DEPT-OPERATIONS
+500,retained earnings
+110,Administration
+400,Corporate
+004,Kenya
+000,Default
+121003,Dibba Hospital
+121010,Women’s and Children’s Hospital
+121012,SAQR Hospital
+10,None
+10,None
+200,Department 200
+10002,AMP Revenue Account
+110,VC US - CST
+120,Sales
+000,Common
+103000,Finance
+10002,LIABILITY
+10003,REVENUE
+112,Finance Operation
+10000,CASH 0
+29310,PAID-IN CAPITAL - CLASS B
+40040,Retained Earnings 
+1101,Accounts Receivale - Tade
+40,Purchase
+102,IT
+1000,FIN
+101,Cash
+101,
+000,Default
+101,Finance
+102,Admin
+40,Real Estate
+201,Sales and Marketing
+4100,cc4
+10002,Concentration Clearing
+10003,Accounts Payable
+13007,On Account Receipts
+13009,Unearned Discount
+14503,Prepaid Insurance
+15001,Cost Investments Basis
+15004,Cost Inv Basis-Held For Invest Purposes
+16107,Terrestrial Repeater Network
+16606,Accum Depr Terrestrial Repeater Network
+18502,Accumulated Amort Customer Relationships
+18506,Accum Amort Capitalized Software
+18513,Customer/Partner/Franchise Relationships
+18515,Affiliate Agreements
+18518,Accum Other Amort Intangibles (Tradenames)
+18999,Accum Amort Other Amortizable Intangible
+19999,Accumulated Amort Other Long Term Assets
+21309,Accrued Bonuses
+24001,Tax Sharing With Broadband
+24004,Federal & State Tax Payable to AT&T
+24007,Income Taxes Payable State
+25001,Notes Payable
+26501,Deferred Taxes Federal
+34001,Unrealized Gain/Loss On Mktbl Securities
+37001,Retained Earnings (system account)
+37003,Income Summary
+60010,401K Plan 
+60011,Employer 401K Match
+64011,Building Services
+66503,Hourly Fee - Fractional Aircraft Leases
+66504,Vehicle Expense
+67502,Bank Service Charges
+69006,Allocation of Management Bonus
+70001,Depreciation Buildings
+70005,Depreciation Land
+71002,Amorization Customer Relationships
+81001,Interest Expense Outside Debt
+81999,Interest Expense Other
+84002,Gain/Loss Cost Method Investments
+84011,Gain/Loss Deferred Taxes
+86003,Unrealized G/L-Interest Rate Swaps
+87105,Dividend Income
+88005,Current Income Tax State
+89001,Equity In Earnings of Noncontrolling Interest
+ID,Initiatives Division
+10130101,MIS-FT-2-Fellowship
+30001,Revenue account
+0000,Default Dept
+101,Finance
+103,Operations
+2007111000,NOTES PAYABLE - ACCRUED INTEREST
+4002100000,CHANGE IN UNEARNED
+4400000100,CONTRIBUTIONS INCOME
+5110300300,LOSSES PAID - RECOV - SUBRO
+3020,Administration Expenses
+50001,Retained Earnings
+100000008,RBS Org 8
+1010010001,Cash and cash equivalent
+1010050001,Exchange for clearing
+1090710003,Prepayments
+1095821230,Staff Advance
+2236159150,Bankers Cheque
+3412018704,Capital
+3422060002,Share Premium
+3452290001,General Reserve
+4536090000,Bank Guarantee
+4577140000,Placement and public offering services
+5712910001,Salaries & Wages
+5746507000,Provision due to impairment
+R0001,Retained Earning
+20000,
+30000,
+50000,
+30000001,Sales Account
+1001,AMI Branch
+1002,ABC Branch Pune
+1240,Other Fixed Assets
+2110,Payables
+3110,Owners' Equity
+3120,Dividends
+5130,Utilities
+10013,Item Expense 
+102,LOB 2
+0311,Corporate Legal Expenses
+0330,Office Services
+0430,West Campus CoGen Facility Operations and Maintenance
+0605,Service and Metering
+0738,Infrastructure and Operations
+0805,Facilities Management
+0900,Affiliate
+40,Cherries
+10000002,APJ Group Chairman Office
+10120102,TP-CE-2-Platform Building
+11020,Cash Checking - Wells Fargo
+11120,Cash Savings - Wells Fargo
+12013,Investments Retail
+12018,Investments Agricultural Research
+13016,Intercompany Shipping Costs Receivables
+13030,Intercompany Convention Costs Receivables
+13041,Intercompany Vintner's Associations Fees Receivables
+13046,Intercompany TV Advertising Receivables
+13050,Intercompany Publicity Expenses Receivables
+13052,Intercompany Public Relations Agency Fees Receivables
+13077,Short Term Debt Receivable
+13078,Refund
+13122,Non-Recoverable Earned Discounts Receivable
+13123,Non-Recoverable Unearned Discounts Receivable
+17700,Other Capital Assets
+17790,Accumulated Depreciation - Other Capital Assets
+21087,Intercompany Freight Costs Payables
+21104,Intercompany Entertainment Costs Payables
+21108,Intercompany Packaging Design Costs Payables
+21122,Intercompany Public Relations Agency Fees Payables
+21127,Intercompany Recruitment Fees Payables
+21160,Customer Advance
+29999,Deferred Depreciation Reserve
+31001,Common Stock
+31002,Paid in Capital
+40114,Domestic Cheese Revenue
+40117,Adjustments
+41120,Intercompany Rent
+41150,Investment Income
+52153,Other Employee Costs
+52231,Rent- Buildings
+52387,Employee Meals
+53432,Domestic Airfare
+53433,Domestic Car Rental
+53442,International Accommodation
+56012,Furniture Depreciation
+56530,Property Taxes
+58440,Customer Appreciation Gala
+1000,President
+402,East Region Sales
+404,West Region Sales
+570,Cost Accounting
+710,CEO Office
+830,MIS
+CEO,CEO Office Management
+100001001,
+101,Corporate
+102,Sales
+10010,Cash Clearing
+02,Mumbai-Bandra
+08,Delhi-CP
+200115,OSLR Assmd - Ext
+300060,Series C Preferred Shares
+103,Sales
+604,Southeast Warehousing
+605,North Atlantic Warehousing
+606,Mid Atlantic Warehousing
+000,Balance Sheet
+0000,No Department
+003,Dubai
+103,Investments – Mining
+200,Consulting Services
+111001,MoHAP Holding Company
+121004,Al Fujairah Hospital
+121005,Khorfakkan Hospital
+103,HR
+1000,Retained Earning Account
+12500,Cash Clearing
+400,Liability
+100,Dept 1
+30,Chocolates
+50,Citrus
+000,Default
+211,Human Resource
+1200,Finance
+114,Finace Project
+211,Human Resource
+40001,Asset Accout
+1102,Accounts Receivable - Unbilled
+20001,Asset 1
+50,Sales
+000,No Dept
+200,HR
+300,Purchase
+104,Sales
+2000,HR
+20,Finance
+00,None
+10,Communication and High Tech
+10004,Accounts Payable Clearing
+10011,Other Cash Equivalents Clearing
+13006,Unidentified Receipts
+13008,Earned Discount
+13499,Accounts Receivable - Other
+14501,Prepaid Property Tax
+14505,Prepaid Rent
+14506,Prepaid Shared License Fees
+15002,Cost Investments Notes
+15003,Cost Investments FAS 115
+16105,Computer And Broadcast Equipment
+16106,Satellite System
+17503,Variable Forward-Held For Invest Purpose
+18504,Accumulated Amort Licensing Agreements
+19502,Deferred Loan Costs
+21315,Accrued Withholding - HSA Withholding
+24008,Intercompany Tax Payable State
+24010,Tax Sharing With Charity
+25002,Deferred Interest Payable
+25004,Deferred Loan Costs
+26502,Deferred Taxes FAS115
+29003,Deferred Compensation Officers
+37002,Retained Earnings
+64004,Printer/Copier Expense
+67007,Stockholder Expense
+67902,Personal Property Tax
+69007,Allocation Cap Adjustment
+70004,Depreciation Computer & Broadcast Equip
+71004,Amortization Backlog
+71005,Amortization Supply Contracts/Relationships
+71006,Amortization Technology
+81004,Interest on Deferred Compensation BOD
+84012,Gain/Loss Noncontrolling Interest
+84022,Gain/Loss Excess Cost
+86001,Unrealized G/L-Collars & Put Spreads
+86002,Unrealized G/L-Call Opt Obligation-Exch
+86005,Unrealized G/L-Other Liabilities
+87106,Interest Income Tax Refund
+87502,Gain/Loss Early Extinguishment of Debt
+88004,Current Income Tax Federal
+88007,Current Income Tax IC Federal
+005,Asset
+10130201,MIS-FT-2-Traineeship
+114,Payable
+10001,Cash
+0000,
+11,Active LoBs
+14,Citrus
+99,Default
+101,HP-SS-2-HP CEO Office
+301,HP-SS-2-Partnerships
+10001,Gabrone
+102,Production
+300,Purchase
+2345,Asset
+3023100000,COMMON STOCK - SERIES A
+3024200001,PAID IN CAPITAL - NEW
+3024300000,RETAINED EARNINGS SURPLUS
+4300001100,COMMISSION REVENUE
+5110100000,LOSSES PAID
+5110300100,LOSSES PAID - RECOV - DEDUCTIBLES
+30000,Payables
+100000002,RBS Org 2
+100000005,RBS Org 5
+100000007,RBS Org 7
+1010010010,Cash and cash equivalent
+1025120000,LC Murahaba
+1055300001,Ijara
+1111130030,Work In progress (Projects)
+2226050004,Saving account deposits
+2236020004,Trading Sukuk
+3422060001,Capital
+3452280000,Statutory Reserves
+3452300003,Revaluation Reserve
+4525100000,Murabaha
+4536190000,Safebox
+4836016000,Travellers Checks
+5753262001,Zakat Expense
+RR001,Revenue
+999662,Dummy Tax Liability
+2220,Furniture-AD
+2240,Other Fixed Assets-AD
+2330,Other Accuals
+3210,Retained Earnings - Current
+4110,Revenue 1
+4210,Purchase Discounts
+000,No LOB
+201,Staffing
+401,Training
+10015,Bank
+0221,Financial Reporting & Budgets
+0306,Human Resources 
+0313,Corporate Communications
+0322,Safety 
+0508,Purchased Gas
+0545,Commercial and Industrial Marketing
+0602,Fleet Operations
+0603,Electric Meter Shop
+0625,Energy Operations
+0627,Distribution Operations Center
+0632,Electric Construction and Operations
+0633,Drafting Services
+0739,Operational Technology Services
+100,Default
+60,Trading
+70,International Ops
+10000007,APJ C1 Advisory Office
+10000011,APJ C2 Legal and Compliance
+10120200,TP-CE-Local
+10120300,TP-CE-International
+1200,HR
+1500,Training
+11017,Cash Checking- HSBC
+12010,Investments Winery
+13021,Intercompany Outreach Programs Receivables
+13045,Intercompany Radio Advertising Receivables
+13054,Intercompany Rebate Programs Costs Receivables
+13055,Intercompany Facility Costs Receivables
+13057,Intercompany Recruitment Fees Receivables
+13058,Intercompany Research Grants  Receivables
+14020,Inventory - for Resale
+17100,Land
+17290,Accumulated Depreciation - Site Improvements
+17800,Vehicles
+17920,CIP Clearing
+21084,Intercompany Labor Costs Payables
+21085,Intercompany Warehouse Costs Payables
+21094,Intercompany Telecom Costs Payables
+21097,Intercompany Legal Fees Payables
+21100,Intercompany Convention Costs Payables
+21101,Intercompany Insurance Costs Payables
+21113,Intercompany Trade Publications Costs Payables
+21115,Intercompany Radio Advertising Payables
+31020,Current Year Operating Income
+40116,Discounts
+41110,Intercompany Revenue
+52220,Repairs and Maintenance - Manufacturing Equipment
+52380,Licenses
+52386,Mileage Reimbursement
+53110,General Supplies and Materials
+53230,Electricity
+53260,Gasoline
+53422,Bank Charges - Foreign
+53427,Customer Awards
+53610,Equipment Repairs
+56011,Site Improvements Depreciation
+56112,Cost of Removal Loss
+56550,Earned Discounts
+56551,Unearned Discounts
+56552,Expenses Adjustment
+58110,Bond Interest Payments
+58410,Bond Issuance Costs
+60043,Header Rounding Account
+0010,Do-Not-Use
+102,Finance
+520,Assembly
+575,Portland P5
+750,Purchasing
+810,HR & Admin Management
+840,Facilities
+850,Human Resources
+1000,Loans
+100000782,
+100000789,
+100000805,
+100001002,
+2000,Treasury
+30001,Revenue Acc
+100010,HSBC - rep office
+3000,Sales
+3500,
+001,Business Consulting
+20,Fusion Practices
+510,CEO Office
+531,Accounts Payable
+532,Accounts Receivable
+608,Pacific Warehousing
+100,KE-DEPT-MARKETING
+100,Liabilty
+100,Finance
+30,Chocolates
+200,Consulting Services
+121014,Shaam Hospital
+101,Clothing Line
+000,No Dept
+210,Dept 2 Child 1
+220,Dept 2 Child 2
+80,Consulting
+100,Dept 1
+107000,Operation Office

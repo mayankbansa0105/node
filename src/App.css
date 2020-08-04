@@ -1,0 +1,49 @@
+@import "./themes/ey.css";
+/* Header Styles */
+.header-title {
+  width: 95%;
+  top: 5px;
+  position: relative;
+}
+
+.username {
+  position: relative;
+  top: -5px;
+}
+
+.user-icon {
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+@media only screen and (max-width: 700px) {
+  .header-title {
+    display: none;
+  }
+}
+
+.header-username {
+  position: absolute;
+  right: 10px;
+}
+
+/* React Date Picker */
+.react-datepicker-popper {
+  z-index: 1000 !important;
+}
+
+
+.col-xs{
+  text-align:initial;
+}
+
+
+.p-right-8{
+  padding-right: 13rem!important;
+}
+
+.required:before{
+  content: "*";
+  color: red;
+  padding-right: .5vh;
+}

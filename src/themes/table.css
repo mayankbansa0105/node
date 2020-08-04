@@ -1,0 +1,424 @@
+/* Tables */
+.table-container {
+    margin: auto;
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.react-bootstrap-table {
+    font-size: 10px;
+    text-align: center;
+}
+
+
+/* Search Table */
+
+.react-bootstrap-table table#search-table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(1),
+.react-bootstrap-table table#search-table> thead > tr:nth-child(1) > th:nth-child(1) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 0;
+}
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(1) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(1) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(1) {
+    background-color: white;
+}
+
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(2),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(2) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 26px;
+    top: 0;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(2) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(2) {
+    background-color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(2) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(3),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(3) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 134px;
+    z-index: 2;
+}
+
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(3) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(3) {
+    background-color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(3) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(4),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(4) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 282px;
+    z-index: 2;
+    margin: 2px;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(4) {
+    background-color: #ccc;
+}
+
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(4) {
+    background-color: white;
+}
+
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(4) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(5),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(5) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 361px;
+    z-index: 2;
+    margin: 2px;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(5) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(5) {
+    background-color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(5) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(6),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(6) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 460px;
+    z-index: 2;
+    margin: 2px;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(6) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(6) {
+      background-color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(6) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+}
+
+
+.react-bootstrap-table > table#search-table > tbody > tr > td:nth-child(7),
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(7) {
+    position: sticky;
+    position: -webkit-sticky;
+    left: 509px;
+    z-index: 2;
+    margin: 2px;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(even) > td:nth-child(7) {
+    background-color: #ccc;
+}
+
+.react-bootstrap-table > table#search-table > tbody > tr:nth-child(odd) > td:nth-child(7) {
+      background-color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(7) {
+    top: 0;
+    z-index: 4;
+    background: #636669;
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(8) {
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(9) {
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(10) {
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+    position: sticky;
+    position: -webkit-sticky;
+}
+
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(11) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(12) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(13) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(14) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(15) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(16) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(17) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(18) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(19) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(20) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.react-bootstrap-table table#search-table > thead > tr:nth-child(1) > th:nth-child(21) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+    background: #636669;
+    color: white;
+}
+
+.final-code-container {
+    display: inline-flex;
+}
+
+/* Table Parent Headers */
+.parent-header {
+    white-space: nowrap;
+    position: relative;
+    bottom: -2px;
+    z-index: 1;
+}
+
+.search-result {
+    border: 0.5px solid;
+    border-color: #dee2e6;
+    width: 1831px;
+    display: inline-block;
+    background: #494d51;
+    color: white;
+}
+
+.ml-output {
+    border: 0.5px solid;
+    border-color: #dee2e6;
+    width: 490px;
+    display: inline-block;
+    background: #494d51;
+    color: white;
+}
+
+.final-code {
+    border: 0.5px solid;
+    border-color: #dee2e6;
+    width: 345px;
+    display: inline-block;
+    background: #494d51;
+    color: white;
+}
+
+/* View Logs Table */
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(1) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(2) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(3) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(4) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(5) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.react-bootstrap-table table#view-logs-table > thead > tr:nth-child(1) > th:nth-child(6) {
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    z-index: 2;
+}
+
+
+/* Table Spinners */
+._loading_overlay_wrapper._loading_overlay_wrapper--active.css-79elbk {
+    width: 2610px;
+}
+
+._loading_overlay_spinner.css-50etie {
+    position: fixed;
+    right: 50%;
+    left: 50%;
+    top: 60%;
+}
+
+.table-no-data {
+    height: 300px;
+}
+
+/* Table Modals */
+.modal-body {
+    overflow: auto;
+}

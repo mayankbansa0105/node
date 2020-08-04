@@ -1,0 +1,327 @@
+SEGMENT_VALUE,DESCRIPTION
+2201,Sundry Creditors
+3404,Earned Discount
+3999,KFH01 KFH Private
+10001,DRCR CA LE
+10004,DRCR RE LE
+000,None
+2112,INS LE 2
+10,Model Innovation Center
+1201,Product 3
+100,Default
+30,Company US
+1000004,Company 4
+2111,Clementi
+3111,Chopin
+9998,None
+102,APJ US Company 2
+101,Oracle
+102,SAP
+302,HP
+003,GDS Computers & Electronic mfg
+20000,
+0000,None
+1111,Handel
+3111,Chopin
+3411,Schumann
+3711,Debussy
+1001,10 Collyer Quay #29-00 Ocean Financial Centre Singapore 049315
+50,RinyArora Global 
+30,RinyArora IN Consulting Sevices Ltd
+2711,Beethoven
+3211,Schubert
+4311,Britten
+1711,Corelli
+2211,Mozart
+101760,SECURITY SERVICE
+102060,US FEDERAL TAX
+102130,VAT
+102140,VAT LOAN
+102280,MEALS
+102410,METLAW
+002,Haryana Location
+003,Punjab Loaction
+0000,None
+2611,Gluck
+3411,Schumann
+4611,Bernstein
+5111,Advisory Services
+14,FUND
+501,HUL UK Ltd
+3101,Air
+3102,Road
+3201,Stationary
+3300,Salary 
+3401,Realized gain?Loss
+4102,SAP
+9000,Headcount
+0000,Default
+10002,DRCR DE LE
+10005,DRCR MA LE
+Services,Services
+00000,Default Future
+01,Company 1
+02,Company 2
+1000002,Company 2
+1000003,Company 3
+8001,Average Balances - Product
+20,Apps2fusion LLC
+101,Product 1
+102,Product 2
+000000,No value
+000,Non Product Related
+000,Default
+1611,Purcell
+2200,None
+2211,Mozart
+2511,Pleyel
+3211,Schubert
+3711,Debussy
+4311,Britten
+4611,Bernstein
+000,None
+101,APJ US Company 1
+20,RinyArora US Consulting Services Ltd
+1311,Bach
+2311,Haydn
+2611,Gluck
+3411,Schumann
+4711,Gershwin
+1611,Purcell
+2611,Gluck
+3411,Schumann
+3711,Debussy
+4311,Britten
+4611,Bernstein
+1111,Handel
+1711,Corelli
+2511,Pleyel
+101,TIL UK Ltd
+1201,Cash
+1202,Bank
+3202,Water
+200,Apparel
+300,Tablets
+0000,Global enterprise
+1111,FS LE 1
+1402,Product 6
+9999,Default
+00,Common
+14,14
+03,Company 3
+0000,Default Future1
+1002,Construction Loan
+30,Fusion Practices Technologies
+1511,Buxtehude
+2411,Salieri
+2611,Gluck
+2711,Beethoven
+3311,Mendelssohn
+2711,Beethoven
+3311,Mendelssohn
+3511,Liszt
+4311,Britten
+00,Default
+10,RinyArora US Technologies Ltd
+50,RinyArora Global 
+1511,Buxtehude
+4111,Copland
+4211,Bartok
+4611,Bernstein
+0000,None
+1511,Buxtehude
+4111,Copland
+4211,Bartok
+102070,US STATE TAX
+T,TOTAL INVENERGY
+3611,Brahms
+4111,Copland
+4311,Britten
+2101,Loans
+10000,DRCR NJ LE
+500,Aero
+T,All Businesses
+Goods,Goods
+00000,Default Future
+1101,Product 1
+102,Retail
+20,
+1000005,Company 5
+1001,Housing Loan
+0000,None
+1111,Handel
+1411,Vivaldi
+3411,Schumann
+001,GDS Aerospace mfg
+0000000,Default
+1000001,A1
+0000,Default Value
+1611,Purcell
+1711,Corelli
+2311,Haydn
+2411,Salieri
+3611,Brahms
+4211,Bartok
+4611,Bernstein
+4711,Gershwin
+000,Non Product Related
+999,Default
+1611,Purcell
+2411,Salieri
+2511,Pleyel
+3111,Chopin
+3311,Mendelssohn
+3611,Brahms
+3711,Debussy
+2511,Pleyel
+2711,Beethoven
+3611,Brahms
+000000,Default
+102390,PAYROLL & OVERHEAD ALLOCATION
+000,Default
+1211,Fiocco
+1411,Vivaldi
+2711,Beethoven
+3711,Debussy
+4511,Vaughn Williams
+3402,Cross currnecy rounding A/c
+1112,FS LE 2
+1121,FS LE 4
+0000,
+1211,Fiocco
+1311,Bach
+004,GDS Petro Chemicals
+IC100,SZK UK
+IC110,SZK US
+1411,Vivaldi
+2611,Gluck
+20,RinyArora US Consulting Services Ltd
+30,RinyArora IN Consulting Sevices Ltd
+00,Default
+10,RinyArora US Technologies Ltd
+00000,Default Future
+2211,Mozart
+4511,Vaughn Williams
+2111,Clementi
+3211,Schubert
+3311,Mendelssohn
+102150,VISION PREMIUM
+102480,INSURANCE MISCELLANEOUS
+1511,Buxtehude
+1611,Purcell
+2111,Clementi
+3211,Schubert
+4411,Stravinsky
+12,PROVISIONS
+99,Default
+1203,Receivables
+2102,Debentures
+3888,KFH01 Corporate
+100,Electronics
+00,Default
+10,Retail Business
+Rentals,Rentals
+1102,Product 2
+101,Finance
+1000,ACCOUNTING
+40,Company UK
+1000001,Company 1
+1003,Business Loan
+00,No IC
+4211,Bartok
+4411,Stravinsky
+4711,Gershwin
+001,IC1
+002,IC2
+202,Tableau
+000,No Company
+1000002,
+100003,
+000,Default
+1311,Bach
+1211,Fiocco
+1311,Bach
+2311,Haydn
+4411,Stravinsky
+4711,Gershwin
+100000,401K PLAN
+100040,AGENCY FEES
+101750,SALARY
+3311,Mendelssohn
+3511,Liszt
+11,ACTUAL
+000,Default Scheme
+1101,Furniture
+5001,Retained earnings
+10003,DRCR BA LE
+400,Plots
+1113,FS LE 3
+Buildings,Buildings
+1403,Product 7
+0000,COMPANY WIDE
+10,Fusion Practices Ltd
+4111,Copland
+4511,Vaughn Williams
+201,Oracle
+002,GDS Industrial Consumable mfg
+0000,Not Applicable
+1211,Fiocco
+1511,Buxtehude
+2211,Mozart
+4111,Copland
+4411,Stravinsky
+4511,Vaughn Williams
+9999,Default
+00000,Default Future
+0000,None
+1211,Fiocco
+2111,Clementi
+2411,Salieri
+3511,Liszt
+4511,Vaughn Williams
+0000,Future 2
+102270,AGENT FEE
+001,Delhi Location
+1311,Bach
+2411,Salieri
+3111,Chopin
+4711,Gershwin
+0000,Default
+1102,P&M
+4101,Oracle 
+3800,KFH01 KFH USA
+20,Manufactung Business
+2111,INS LE 1
+1301,Product 4
+1401,Product 5
+12,12
+00,No Company
+9999,Default
+1711,Corelli
+2311,Haydn
+3511,Liszt
+3611,Brahms
+301,Microsoft
+00000,Default
+10000,
+1000004,
+00000,Not Applicable
+IC120,SZK INDIA
+2111,Clementi
+2511,Pleyel
+3211,Schubert
+1002,rue de Jargonnant 1207 Geneva  Switzerland
+9999,Default
+1111,Handel
+1411,Vivaldi
+1711,Corelli
+3511,Liszt
+4411,Stravinsky
+1111,Handel
+1411,Vivaldi
+3111,Chopin
+2211,Mozart
+2311,Haydn
+4211,Bartok
+15,SUBLEDGER
+102,TIL UK Investment Ltd
