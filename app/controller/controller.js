@@ -1,6 +1,6 @@
 const { poolPromise } = require('../models/db');
 exports.search = (req,res)=>{
-   res.json({'message':' working fine now'});
+   res.json({'message':' working fine now!'});
 }
 exports.intgrationNames = async(req,res)=>{
   try {
