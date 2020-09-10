@@ -4,6 +4,7 @@ const bodyparser = require('body-parser');
 const routes = require('./app/routes/route');
 app = new express();
 app.use(function (req, res, next) {
+    console.log("app is running");
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
     res.header('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
